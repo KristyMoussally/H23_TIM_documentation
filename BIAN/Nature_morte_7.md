@@ -2,6 +2,6 @@
 
 Test Nature Morte 7 de Baron Lanteigne
 
-!https://youtube.com/shorts/b9o8wk9XdjI?feature=share
 
-[![Animations](https://youtube.com/shorts/b9o8wk9XdjI?feature=share)]
+
+https://youtube.com/shorts/b9o8wk9XdjI?feature=share
