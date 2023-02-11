@@ -15,4 +15,4 @@ https://youtube.com/shorts/vjXid7DYTww?feature=share
 http://img.youtube.com/vi/shorts/b9o8wk9XdjI/0.jpg
 
 jXid7DYTww
-
+https://img.youtube.com/vi/<jXid7DYTww>/0.jpg
