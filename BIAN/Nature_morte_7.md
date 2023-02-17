@@ -8,8 +8,9 @@
  ![entrer Arsenal](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/bian_entre_bian.jpg?raw=true)
 
 ## Type d'exposition
+L'éxposition est temporaire et réalisé à l'intérieur.
 
-## 3 février 2023
+### 3 février 2023
 
 ## Nature Morte 7
 
