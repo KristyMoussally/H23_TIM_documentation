@@ -14,11 +14,13 @@ L'éxposition est temporaire et réalisé à l'intérieur.
 
 ## Nature Morte 7
 
-## Nom de l'artiste
+![vue 2](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_vue_2.jpg?raw=true)
+
+## L'artiste et l'oeuvre
 
 ## Année de réalisation
 
-## Descriptio de l'oeuvre
+## Description de l'oeuvre
 
 ## Type d'installation
 
