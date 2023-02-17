@@ -6,7 +6,7 @@
 
 ## Date de notre sortie
 
-## Titre de l'oeuvre
+## Nature Morte 7
 
 ## Nom de l'artiste
 
