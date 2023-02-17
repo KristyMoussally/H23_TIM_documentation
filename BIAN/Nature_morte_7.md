@@ -16,6 +16,18 @@
 
 ## Type d'installation
 
+## Mise en espaces
+
+## Composantes et technique
+
+## Élément nécessaire à la mise en exposition
+
+## Expérience vécue
+
+## Ce qui vous a plu, vous a donné des idées
+
+## Aspect que vous ne souhhaiteriez pas retenir pour vos propre créations ou que vous feriez autrement
+
 Test Nature Morte 7 de Baron Lanteigne
 
 Animations : 
