@@ -1,7 +1,11 @@
-# Bian
+# Bian 6 Mutation
+
+![affiche de Bian Mutation](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/affiche_exposition.jpg?raw=true)
 
 ## Arsenal Contemporary Art Contemporain
  2020 William St Montreal, QC H3J 1R8, Canada
+ 
+ ![entrer Arsenal](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/bian_entre_bian.jpg?raw=true)
 
 ## Type d'exposition
 
