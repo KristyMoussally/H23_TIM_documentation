@@ -1,6 +1,6 @@
 # Bian
 
-## Lieu
+## Arsenal Contemporary Art Contemporain
  2020 William St Montreal, QC H3J 1R8, Canada
 
 ## Type d'exposition
