@@ -4,7 +4,7 @@
 
 ## Type d'exposition
 
-## Date de notre sortie
+## 3 février 2023
 
 ## Nature Morte 7
 
