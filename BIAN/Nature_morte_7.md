@@ -20,6 +20,8 @@ L'éxposition est temporaire et réalisé à l'intérieur.
 
 ## L'artiste et l'oeuvre
 
+![cartel](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cartel_artiste.jpg?raw=true)
+
 ## Année de réalisation
 
 ## Description de l'oeuvre
