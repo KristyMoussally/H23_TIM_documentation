@@ -5,14 +5,14 @@
 ## Arsenal Contemporary Art Contemporain
  2020 William St Montreal, QC H3J 1R8, Canada
  
- Photo pris par Khaly Tia Sing
+ date de sortie : 3 février 2023
+ 
+ Photo pris par Khaly Tia Sing 
  
  ![entrer Arsenal](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/bian_entre_bian.jpg?raw=true)
 
 ## Type d'exposition
 L'éxposition est temporaire et réalisé à l'intérieur.
-
-#### 3 février 2023
 
 ## Nature Morte 7
 
