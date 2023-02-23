@@ -23,11 +23,8 @@ Nature morte 7 est un oeuvre réalisé par Baron Lanteigne en 2022. Né en 1987 
 
 ![cartel](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cartel_artiste.jpg?raw=true)
 
-
-## Année de réalisation
-
 ## Description de l'oeuvre
-
+Oeuvre description
 ## Type d'installation
 
 ## Mise en espaces
