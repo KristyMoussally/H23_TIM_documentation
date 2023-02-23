@@ -11,7 +11,6 @@
  
  ![entrer Arsenal](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/bian_entre_bian.jpg?raw=true)
 
-## Type d'exposition
 L'éxposition est temporaire et réalisé à l'intérieur.
 
 ## Nature Morte 7
@@ -20,7 +19,10 @@ L'éxposition est temporaire et réalisé à l'intérieur.
 
 ## L'artiste et l'oeuvre
 
+Nature morte 7 est un oeuvre réalisé par Baron Lanteigne en 2022. Né en 1987 à Québec (Canada), il travaille à Québec. Il a réalisé 11 oeuvres de 2017 à 2022. Cet artiste a fait plusieurs collaboration avec des communautés liés en web. Son travailfait partie de collection et évènements en ligne. Voici le lien de son site pour plus d'information sur lui et ces oeuvres : https://baronlanteigne.com
+
 ![cartel](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cartel_artiste.jpg?raw=true)
+
 
 ## Année de réalisation
 
