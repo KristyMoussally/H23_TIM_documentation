@@ -82,6 +82,8 @@ Posture des visiteurs :
 
 L'oeuvre est au niveau des yeux des visiteurs. Alors, on peut s'en approcher autant qu'on veut pour l'admirer au complet. J'ai aussi aimé le fait que l'artiste a fusionné la technologie, représentée par les écrans, et la nature, représentée par des feuilles artificielles, pour créer sa propre version d'une nature morte.
 
+![vue 2](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_vue_2.jpg?raw=true)
+
 ## Aspect que vous ne souhhaiteriez pas retenir pour vos propre créations ou que vous feriez autrement
 
 Ce qui m'a dérangé en regardant l'oeuvre, c'est le fait qu'il n'y a pas de son ou de la musique. Puisque celui-ci est dans un endroit ouvert où il partage l'espace de l'exposition avec un autre oeuvre, on peut ce faire distraire rapidement. Ce qui résulte de moins de temps à admirer l'oeuvre de Baron. À mon avis, je mettrai de la musique synchronisé avec l'animation. Donc, quand l'effet de glitch commencera, la musique sonnera briser pour faire en sorte que cette nature morte montre aussi de la vie. Le lien entre l'oeuvre et la musique pourra intéresser plus de monde.
