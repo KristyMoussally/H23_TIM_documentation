@@ -40,11 +40,17 @@ Déplacement autour de l'oeuvre:
 ## Mise en espaces
 
 ![croquis](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/croquis_exposition.png?raw=true)
+
+![espace](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_vue_6.jpg?raw=true)
+
 ## Composantes et technique
 
-![cable](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cable.jpg?raw=true)
+
 ## Élément nécessaire à la mise en exposition
 
+![cable](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cable.jpg?raw=true)
+
+![cable pendu](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cable_2.jpg?raw=true)
 ## Expérience vécue
 Déplacement autour de l'oeuvre: 
 
