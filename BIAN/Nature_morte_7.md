@@ -69,4 +69,4 @@ L'oeuvre est à la même niveau que les visiteurs donc pas de support. En fait, 
 
 ## Aspect que vous ne souhhaiteriez pas retenir pour vos propre créations ou que vous feriez autrement
 
-
+Ce qui m'a dérangé en regardant l'oeuvre, c'est le fait qu'il n'y a pas de son ou de la musique. Puisque celui-ci est dans un endroit ouvert où il partage l'espace de l'exposition avec un autre oeuvre, on peut ce faire distraire rapidement. Ce qui résulte de moins de temps à admirer l'oeuvre de Baron. À mon avis, je mettrai de la musique synchronisé avec l'animation. Donc, quand l'effet de glitch commencera, la musique sonnera briser pour faire en sorte que cette nature morte montre aussi de la vie. Le lien entre l'oeuvre et la musique pourra intéresser plus de monde.
