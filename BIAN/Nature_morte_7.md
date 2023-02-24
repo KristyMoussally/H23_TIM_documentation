@@ -62,9 +62,10 @@ Déplacement autour de l'oeuvre:
 - projecteur de lumière dans la salle
 
 ![cable pendu](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cable_2.jpg?raw=true)
+
 ## Expérience vécue
 
-L'oeuvre ne dispose pas de ruban pour nous limiter d'avancer. Il y a un petit banc du côter droit de l'oeuvre où on peut l'admirer puisuqe celui-ci est un oeuvre contemplatif. C'est-à dire qu'on peut seulement voir et n'a pas des aspect intéractif.
+L'oeuvre ne dispose pas de ruban pour nous limiter d'avancer. Il y a un petit banc du côter droit de l'oeuvre où on peut l'admirer puisuqe celui-ci est un oeuvre contemplatif. C'est-à dire qu'on peut seulement l'admirer et qu'il n'y a pas des aspects intéractifs. J'ai admiré l'oeuvre en marchant autour plusieurs fois et en regardant les animations dans les écrans.
 
 Déplacement autour de l'oeuvre: 
 
