@@ -52,6 +52,9 @@ Déplacement autour de l'oeuvre:
 
 ![cable pendu](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cable_2.jpg?raw=true)
 ## Expérience vécue
+
+L'oeuvre ne dispose pas de ruban pour nous limiter d'avancer. Il y a un petit banc du côter droit de l'oeuvre où on peut l'admirer puisuqe celui-ci est un oeuvre contemplatif. C'est-à dire qu'on peut seulement voir et n'a pas des aspect intéractif.
+
 Déplacement autour de l'oeuvre: 
 
 [![Déplacement](https://img.youtube.com/vi/vjXid7DYTww/0.jpg)](https://youtube.com/shorts/vjXid7DYTww?feature=share)
@@ -62,5 +65,8 @@ Posture des visiteurs :
 
 ## Ce qui vous a plu, vous a donné des idées
 
+L'oeuvre est à la même niveau que les visiteurs donc pas de support. En fait, i
+
 ## Aspect que vous ne souhhaiteriez pas retenir pour vos propre créations ou que vous feriez autrement
+
 
