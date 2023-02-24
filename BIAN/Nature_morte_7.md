@@ -45,10 +45,21 @@ Déplacement autour de l'oeuvre:
 
 ## Composantes et technique
 
+- Câbles
+- Écrans (9)
+- Écran sculpture
+- feuilles artificielles
+- Animations projeter dans les écrans (programation)
+
+![cable](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cable.jpg?raw=true)
+
 
 ## Élément nécessaire à la mise en exposition
 
-![cable](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cable.jpg?raw=true)
+- Support
+- Fils de suspension avec crochets
+- banc
+- projecteur de lumière dans la salle
 
 ![cable pendu](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cable_2.jpg?raw=true)
 ## Expérience vécue
