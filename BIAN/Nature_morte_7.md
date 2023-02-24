@@ -19,7 +19,7 @@ L'éxposition est temporaire et réalisé à l'intérieur.
 
 ## L'artiste et l'oeuvre
 
-Nature morte 7 est un oeuvre réalisé par Baron Lanteigne en 2022. Né en 1987 à Québec (Canada), il travaille à Québec. Il a réalisé 11 oeuvres de 2017 à 2022. Cet artiste a fait plusieurs collaboration avec des communautés liés en web. Son travailfait partie de collection et évènements en ligne. Voici le lien de son site pour plus d'information sur lui et ces oeuvres : https://baronlanteigne.com
+Nature morte 7 est un oeuvre réalisé par Baron Lanteigne en 2022. Né en 1987 à Québec (Canada), il travaille à Québec. Il a réalisé 11 oeuvres de 2017 à 2022. Cet artiste a fait plusieurs collaboration avec des communautés liés en web. Son travailfait partie de collection et évènements en ligne.
 
 ![cartel](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cartel_artiste.jpg?raw=true)
 
@@ -38,6 +38,9 @@ Déplacement autour de l'oeuvre:
 [![Déplacement](https://img.youtube.com/vi/vjXid7DYTww/0.jpg)](https://youtube.com/shorts/vjXid7DYTww?feature=share)
 
 ## Mise en espaces
+
+L'oeuvre est située dans une salle ouverte avec plusieurs autres projets comme celui des autos. Elle n'occupe pas beaucoup de place dans la salle d'exposition.
+Deux écrans sont suspondus par des fils au support et le reste est disposé par terre en tas.
 
 ![croquis](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/croquis_exposition.png?raw=true)
 
@@ -82,3 +85,9 @@ L'oeuvre est à la même niveau que les visiteurs donc pas de support. En fait, 
 ## Aspect que vous ne souhhaiteriez pas retenir pour vos propre créations ou que vous feriez autrement
 
 Ce qui m'a dérangé en regardant l'oeuvre, c'est le fait qu'il n'y a pas de son ou de la musique. Puisque celui-ci est dans un endroit ouvert où il partage l'espace de l'exposition avec un autre oeuvre, on peut ce faire distraire rapidement. Ce qui résulte de moins de temps à admirer l'oeuvre de Baron. À mon avis, je mettrai de la musique synchronisé avec l'animation. Donc, quand l'effet de glitch commencera, la musique sonnera briser pour faire en sorte que cette nature morte montre aussi de la vie. Le lien entre l'oeuvre et la musique pourra intéresser plus de monde.
+
+[![Animations](http://img.youtube.com/vi/b9o8wk9XdjI/0.jpg)](https://youtube.com/shorts/b9o8wk9XdjI?feature=share)
+
+## Référence
+
+https://baronlanteigne.com
