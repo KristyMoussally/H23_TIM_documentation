@@ -24,7 +24,8 @@ Nature morte 7 est un oeuvre réalisé par Baron Lanteigne en 2022. Né en 1987 
 ![cartel](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/nature_morte_7_cartel_artiste.jpg?raw=true)
 
 ## Description de l'oeuvre
-Oeuvre description
+L'oeuvre est composé de neuf écrans, un écran sculpture, des plantes artificiels ainsi que des électroniques.La plupart des écrans sont positionés par terre (projettant des animations avec un effet de glitch pour démontrer qu'ils sont endomagés) en dessus des cables, mais ceux-ci sont visibles. Deux de ces écrans sont pendus à l'aide des cables quivont au plafond. Un project une lumière blanche comme si celui-ci ne marche pas. L'écran sculpture possède des objets électriques en arrière et projectte une animation unique. L'oeuvre est couvert par des plantes artificielles liant la technologie consommée par la nature dont vient le nom de nature morte.
+
 ## Type d'installation
 
 Les animations : 
@@ -37,11 +38,15 @@ Déplacement autour de l'oeuvre:
 
 ## Mise en espaces
 
+![croquis](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/BIAN/media/croquis_exposition.png?raw=true)
 ## Composantes et technique
 
 ## Élément nécessaire à la mise en exposition
 
 ## Expérience vécue
+Déplacement autour de l'oeuvre: 
+
+[![Déplacement](https://img.youtube.com/vi/vjXid7DYTww/0.jpg)](https://youtube.com/shorts/vjXid7DYTww?feature=share)
 
 ## Ce qui vous a plu, vous a donné des idées
 
