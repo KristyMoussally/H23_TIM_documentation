@@ -80,7 +80,7 @@ Posture des visiteurs :
 
 ## Ce qui vous a plu, vous a donné des idées
 
-L'oeuvre est à la même niveau que les visiteurs donc pas de support. En fait, i
+L'oeuvre est au niveau des yeux des visiteurs. Alors, on peut s'en approcher autant qu'on veut pour l'admirer au complet. J'ai aussi aimé le fait que l'artiste a fusionné la technologie, représentée par les écrans, et la nature, représentée par des feuilles artificielles, pour créer sa propre version d'une nature morte.
 
 ## Aspect que vous ne souhhaiteriez pas retenir pour vos propre créations ou que vous feriez autrement
 
