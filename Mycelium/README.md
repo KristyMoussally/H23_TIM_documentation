@@ -1,5 +1,5 @@
 ## Thème mycelium
 
 - media
-- projet d'installation
+- Les projets d'installations (prototype) 
 - préférer?
