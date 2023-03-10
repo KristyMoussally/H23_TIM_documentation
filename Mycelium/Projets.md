@@ -58,4 +58,8 @@ Les cours du programme requis pour l'oeuvre :
 
 ## Références
 
+Préproduction d'Echomarine : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 Préproduction de ENTRER FUNGUS : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
+Préproduction de Luma Sol : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
+Préproduction de Boucle la boucle : https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
+Préproduction de Zodie-Gal : https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
