@@ -49,7 +49,7 @@ Les cours du programme requis pour l'oeuvre :
 
 Oeuvre réalisée par Abdanor Yana.
 
-Lien avec le thème de mycélium : 
+Lien avec le thème de mycélium : un jeu interactif qui démontre le lien entre une jeune fille et son environement (nature) dans un monde moderne.
 
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
