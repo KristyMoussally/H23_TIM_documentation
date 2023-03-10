@@ -12,6 +12,6 @@ Les projets réalisés par les étudiants de dernières années :
 
  - Echomarine
  - ENTRE FUNGUS
- - Nexun
+ - Nexum
  - Boucle la boucle
  - Zodie-Gal
