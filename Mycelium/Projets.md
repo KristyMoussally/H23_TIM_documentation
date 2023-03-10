@@ -18,6 +18,11 @@ Oeuvre réalisée par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblan
 
 Lien avec le thème de mycélium : 
 
+Les cours du programme requis pour l'oeuvre :
+- Audio
+- Préparation au milieu de travail
+- Instalation Multimedia
+
 ## LumaSol
 
 Oeuvre réalisée par Éloïse Gagné, Skala Stimphil, Michaël Simard et Pénélope Morrisson.
