@@ -21,7 +21,7 @@ Lien avec le thème de mycélium :
 Les cours du programme requis pour l'oeuvre :
 - Audio
 - Préparation au milieu de travail
-- Instalation Multimedia
+- Installation Mmltimédia
 
 ## LumaSol
 
@@ -29,14 +29,29 @@ Oeuvre réalisée par Éloïse Gagné, Skala Stimphil, Michaël Simard et Péné
 
 Lien avec le thème de mycélium : 
 
+Les cours du programme requis pour l'oeuvre :
+- Installation multimédia
+- Web
+- Audio
+
 ## Boucler la boucle
 
 Oeuvre réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Laurierss.
 
 Lien avec le thème de mycélium : 
 
+Les cours du programme requis pour l'oeuvre :
+- Animation 2D
+- Installation multimédia
+- Conception vidéo
+
 ## Zodie-Gal
 
 Oeuvre réalisée par Abdanor Yana.
 
 Lien avec le thème de mycélium : 
+
+Les cours du programme requis pour l'oeuvre :
+- Animation 2D
+- Audio
+- Programmation interactive
