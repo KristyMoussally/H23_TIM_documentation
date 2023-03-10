@@ -2,4 +2,4 @@
 
 - media
 - Les projets d'installations (prototype) 
-- préférer?
+- Projet choisi en plus de détaille
