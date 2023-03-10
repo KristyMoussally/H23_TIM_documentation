@@ -16,14 +16,14 @@ Les cours du programme requis pour l'oeuvre :
 
 Oeuvre réalisée par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe.
 
-Lien avec le thème de mycélium : 
+Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'installation représente la dualité entre les deus éléments. 
 
 Les cours du programme requis pour l'oeuvre :
 - Audio
 - Préparation au milieu de travail
 - Installation Mmltimédia
 
-## LumaSol
+## Luma Sol
 
 Oeuvre réalisée par Éloïse Gagné, Skala Stimphil, Michaël Simard et Pénélope Morrisson.
 
@@ -55,3 +55,7 @@ Les cours du programme requis pour l'oeuvre :
 - Animation 2D
 - Audio
 - Programmation interactive
+
+## Références
+
+Préproduction de ENTRER FUNGUS : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
