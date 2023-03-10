@@ -27,18 +27,18 @@ Les cours du programme requis pour l'oeuvre :
 
 Oeuvre réalisée par Éloïse Gagné, Skala Stimphil, Michaël Simard et Pénélope Morrisson.
 
-Lien avec le thème de mycélium : 
+Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'équipe veut montrer l'effet des êtres humains et le chamgement climatique.
 
 Les cours du programme requis pour l'oeuvre :
 - Installation multimédia
 - Web
 - Audio
 
-## Boucler la boucle
+## Nexum
 
 Oeuvre réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Laurierss.
 
-Lien avec le thème de mycélium : 
+Lien avec le thème de mycélium : Les éléments immersives (sons, animations et lumières) ont pour effet de présenter le mélange de la technologie et la nature.
 
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
@@ -64,6 +64,6 @@ Préproduction de ENTRER FUNGUS : https://tim-montmorency.com/2023/projets/EDRIA
 
 Préproduction de Luma Sol : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
 
-Préproduction de Boucle la boucle : https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
+Préproduction de Nexum : https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
 
 Préproduction de Zodie-Gal : https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
