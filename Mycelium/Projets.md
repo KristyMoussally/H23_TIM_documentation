@@ -40,6 +40,8 @@ Oeuvre réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et M
 
 Lien avec le thème de mycélium : Les éléments immersives (sons, animations et lumières) ont pour effet de présenter le mélange de la technologie et la nature.
 
+![prototype](https://user-images.githubusercontent.com/112190488/224382575-2e25d2e2-ef47-48a1-82be-a79f0053d507.png)
+
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
 - Installation multimédia
