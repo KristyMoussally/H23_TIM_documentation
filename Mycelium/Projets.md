@@ -7,7 +7,12 @@ Oeuvre réalisée par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria La
 Lien avec le thème de mycélium : en fusionnant les éléments de technologie et la nature, l'installation a pour but de sensibiiser le public aux animaux marins
 en voie d'instection.
 
-## EDIRA
+Les cours du programme requis pour l'oeuvre :
+- Illustration numérique
+- Animation 2D
+- Web
+
+## ENTRE FUNGUS
 
 Oeuvre réalisée par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe.
 
