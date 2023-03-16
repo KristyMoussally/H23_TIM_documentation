@@ -40,6 +40,8 @@ Oeuvre réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et M
 
 Lien avec le thème de mycélium : Les éléments immersives (sons, animations et lumières) ont pour effet de présenter le mélange de la technologie et la nature.
 
+Prototype de l'oeuvre "Nexum" :
+
 ![prototype Nexum](https://user-images.githubusercontent.com/112190488/224383306-92d24548-2831-434e-9f0c-b1c1722defcc.png)
 
 
