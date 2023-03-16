@@ -60,6 +60,10 @@ Oeuvre réalisée par Abdanor Yana.
 
 Lien avec le thème de mycélium : un jeu interactif qui démontre le lien entre une jeune fille et son environement (nature) dans un monde moderne.
 
+Prototype de l'oeuvre "Zodie-Gal" :
+
+![prototype zodie-gal](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/Mycelium/media/prototype_zodie_gal.jpg?raw=true)
+
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
 - Audio
