@@ -29,6 +29,10 @@ Oeuvre réalisée par Éloïse Gagné, Skala Stimphil, Michaël Simard et Péné
 
 Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'équipe veut montrer l'effet des êtres humains et le chamgement climatique.
 
+Prototype de l'oeuvre "LumaSol" :
+
+![prototype lumasol](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/Mycelium/media/prototype_lumasol.jpg?raw=true)
+
 Les cours du programme requis pour l'oeuvre :
 - Installation multimédia
 - Web
