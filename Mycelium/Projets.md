@@ -12,7 +12,8 @@ Prototype de l'oeuvre "Echomarine" :
 [![Animation prototype Echomarine]( https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CJT-zqAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLDWchMhTV8v2tc8LVp2gCmCdABPnA)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
 
 Schéma de plantation par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel
-Retrouver dans leur préproduction au réféfrence :
+
+Retrouver dans leur préproduction au réféfrence en bas de la page :
 
 ![schéma plantation](https://user-images.githubusercontent.com/90852900/216374037-8080de26-ad2f-4eeb-83c4-d4192a348956.png)
 
@@ -76,6 +77,12 @@ Lien avec le thème de mycélium : un jeu interactif qui démontre le lien entre
 Prototype de l'oeuvre "Zodie-Gal" :
 
 ![prototype zodie-gal](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/Mycelium/media/prototype_zodie_gal.jpg?raw=true)
+
+Schéma de plantation par Abdanor Yana 
+
+Retrouver dans leur préproduction au réféfrence en bas de la page :
+
+![plantation zodie-gal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/preproduction/outsider.png)
 
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
