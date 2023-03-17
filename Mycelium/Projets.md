@@ -11,6 +11,10 @@ Prototype de l'oeuvre "Echomarine" :
 
 [![Animation prototype Echomarine]( https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CJT-zqAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLDWchMhTV8v2tc8LVp2gCmCdABPnA)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
 
+[Schéma de plantation par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html) :
+
+![schéma plantation](https://user-images.githubusercontent.com/90852900/216374037-8080de26-ad2f-4eeb-83c4-d4192a348956.png)
+
 Les cours du programme requis pour l'oeuvre :
 - Illustration numérique
 - Animation 2D
