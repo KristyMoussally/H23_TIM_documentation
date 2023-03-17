@@ -30,7 +30,7 @@ Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'
 
 Prototype de l'oeuvre "ENTRE FUNGUS" :
 
-[![Animation prototype Entre Fungus](https://i9.ytimg.com/vi/xjFtlaNWrlU/mq2.jpg?sqp=CMCAz6AG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNiA5KH8wDw==&rs=AOn4CLARMhIeB-mfAg5L8NPpGntMxdemeA)]( https://www.youtube.com/shorts/xjFtlaNWrlU)
+[![Animation prototype Entre Fungus](https://i9.ytimg.com/vi/xjFtlaNWrlU/mq2.jpg?sqp=CNih0qAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNiA5KH8wDw==&rs=AOn4CLCRWlqFlMNgqtOkM-uaDOa9XbLyUQ)]( https://www.youtube.com/shorts/xjFtlaNWrlU)
 
 Schéma de plantation par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
