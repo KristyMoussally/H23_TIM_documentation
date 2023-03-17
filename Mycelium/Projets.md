@@ -22,13 +22,13 @@ Les cours du programme requis pour l'oeuvre :
 - Animation 2D
 - Web
 
-## ENTRE FUNGUS
+## Edria
 
 Oeuvre réalisée par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe.
 
 Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'installation représente la dualité entre les deus éléments. 
 
-Prototype de l'oeuvre "ENTRE FUNGUS" :
+Prototype de l'oeuvre "Edria" :
 
 [![Animation prototype Entre Fungus](https://i9.ytimg.com/vi/xjFtlaNWrlU/mq2.jpg?sqp=CNih0qAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNiA5KH8wDw==&rs=AOn4CLCRWlqFlMNgqtOkM-uaDOa9XbLyUQ)]( https://www.youtube.com/shorts/xjFtlaNWrlU)
 
@@ -126,7 +126,7 @@ Les cours du programme requis pour l'oeuvre :
 
 Préproduction d'Echomarine : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 
-Préproduction de ENTRE FUNGUS : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
+Préproduction de Edria : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
 
 Préproduction de Luma Sol : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
 
