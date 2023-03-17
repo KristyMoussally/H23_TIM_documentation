@@ -32,7 +32,15 @@ Prototype de l'oeuvre "ENTRE FUNGUS" :
 
 [![Animation prototype Entre Fungus](https://i9.ytimg.com/vi/xjFtlaNWrlU/mq2.jpg?sqp=CMCAz6AG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNiA5KH8wDw==&rs=AOn4CLARMhIeB-mfAg5L8NPpGntMxdemeA)]( https://www.youtube.com/shorts/xjFtlaNWrlU)
 
+Schéma de plantation par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
+
+Retrouver dans leur préproduction au réféfrence en bas de la page :
+
+
+![schéma plantation ENTRE FUNGUS]()
+
 Les cours du programme requis pour l'oeuvre :
+
 - Audio
 - Préparation au milieu de travail
 - Installation Mmltimédia
@@ -46,6 +54,12 @@ Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'
 Prototype de l'oeuvre "LumaSol" :
 
 ![prototype lumasol](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/Mycelium/media/prototype_lumasol.jpg?raw=true)
+
+Schéma de plantation par Éloïse Gagné, Skala Stimphil, Michaël Simard et Pénélope Morrisson
+
+Retrouver dans leur préproduction au réféfrence en bas de la page :
+
+![schéma plantation LumaSol]()
 
 Les cours du programme requis pour l'oeuvre :
 - Installation multimédia
@@ -62,6 +76,11 @@ Prototype de l'oeuvre "Nexum" :
 
 ![prototype Nexum](https://user-images.githubusercontent.com/112190488/224383306-92d24548-2831-434e-9f0c-b1c1722defcc.png)
 
+Schéma de plantation par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Laurierss
+
+Retrouver dans leur préproduction au réféfrence en bas de la page :
+
+![schéma plantation Nexum]()
 
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
@@ -82,7 +101,7 @@ Schéma de plantation par Abdanor Yana
 
 Retrouver dans leur préproduction au réféfrence en bas de la page :
 
-![plantation zodie-gal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/preproduction/outsider.png)
+![schéma plantation zodie-gal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/preproduction/outsider.png)
 
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
