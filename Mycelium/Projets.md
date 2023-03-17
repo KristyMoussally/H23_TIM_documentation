@@ -7,6 +7,10 @@ Oeuvre réalisée par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria La
 Lien avec le thème de mycélium : en fusionnant les éléments de technologie et la nature, l'installation a pour but de sensibiiser le public aux animaux marins
 en voie d'instection.
 
+Prototype de l'oeuvre "Echomarine" :
+
+
+
 Les cours du programme requis pour l'oeuvre :
 - Illustration numérique
 - Animation 2D
@@ -17,6 +21,10 @@ Les cours du programme requis pour l'oeuvre :
 Oeuvre réalisée par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe.
 
 Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'installation représente la dualité entre les deus éléments. 
+
+Prototype de l'oeuvre "ENTRE FUNGUS" :
+
+
 
 Les cours du programme requis pour l'oeuvre :
 - Audio
@@ -73,7 +81,7 @@ Les cours du programme requis pour l'oeuvre :
 
 Préproduction d'Echomarine : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 
-Préproduction de ENTRER FUNGUS : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
+Préproduction de ENTRE FUNGUS : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
 
 Préproduction de Luma Sol : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
 
