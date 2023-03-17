@@ -9,7 +9,7 @@ en voie d'instection.
 
 Prototype de l'oeuvre "Echomarine" :
 
-[![Animation prototype Echomarine]( https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CJT-zqAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLDWchMhTV8v2tc8LVp2gCmCdABPnA)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
+[![Animation prototype Echomarine](https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CJT-zqAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLDWchMhTV8v2tc8LVp2gCmCdABPnA)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
 
 Schéma de plantation par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel
 
@@ -37,7 +37,7 @@ Schéma de plantation par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Le
 Retrouver dans leur préproduction au réféfrence en bas de la page :
 
 
-![schéma plantation ENTRE FUNGUS]()
+![schéma plantation ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/EDRIA/docs/preproduction/medias/plan_direction_capteur.png)
 
 Les cours du programme requis pour l'oeuvre :
 
@@ -80,7 +80,7 @@ Schéma de plantation par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel 
 
 Retrouver dans leur préproduction au réféfrence en bas de la page :
 
-![schéma plantation Nexum]()
+![schéma plantation Nexum](https://tim-montmorency.com/2023/projets/Nexum/docs/preproduction/medias/Passe_lumiere.png)
 
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
