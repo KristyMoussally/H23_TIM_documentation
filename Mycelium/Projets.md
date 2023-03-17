@@ -59,7 +59,7 @@ Schéma de plantation par Éloïse Gagné, Skala Stimphil, Michaël Simard et P�
 
 Retrouver dans leur préproduction au réféfrence en bas de la page :
 
-![schéma plantation LumaSol]()
+![schéma plantation LumaSol](https://user-images.githubusercontent.com/78884924/216165162-092f1422-7864-483e-8bc3-b1ad0243268e.png)
 
 Les cours du programme requis pour l'oeuvre :
 - Installation multimédia
