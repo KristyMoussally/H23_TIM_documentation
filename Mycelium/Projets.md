@@ -113,13 +113,13 @@ Les cours du programme requis pour l'oeuvre :
 
 ## Mon Opinion
 
-(1 à 5) Oû le premier est le plus apprécié et le dernier le moins apprécié : + justification
+(1 à 5) Oû le premier est le plus apprécié et le dernier le moins apprécié : 
 
-1. Echomarine, J'ai bien aimé les sons et les animation sont fluides.
-2. Fungus, La musique et les lumières donnent un résultat calm ainsi que de l'énergie chaotique en même temps.
-3. Zodi-Gal, Le style du design et les idées surabondantes qu'on voit dans la préprodiction 
-4. LumaSol
-5. Nexum
+1. Echomarine, j'ai bien aimé les sons et les animation sont fluides.
+2. Fungus, la musique et les lumières donnent un résultat calm ainsi que de l'énergie chaotique en même temps.
+3. Zodi-Gal, le style du design et les idées surabondantes qu'on voit dans la préprodiction 
+4. LumaSol, j'ai moins apprécié le fait qu'il y a juste une personne qui peut intéragir avec l'oeuvre
+5. Nexum, les positions des code Qr me donne un sentiment de doute où je parle de l'esthétique du sentier.
 
 + Mes expérence pour chaques oeuvres
 Pour Zodie-Gal, le graphic design me donne envis de dessiner. Les animations et le placement du jeu (l'ordie sur une trable dans le noir) support l'humeur du contenue.
