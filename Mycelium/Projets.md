@@ -115,8 +115,8 @@ Les cours du programme requis pour l'oeuvre :
 
 (1 à 5) le meilleur projet + justification
 1. Echomarine
-2. Zodie-Gal
-3. Fungus
+2. Fungus
+3. Zodi-Gal
 4. LumaSol
 5. Nexum
 
