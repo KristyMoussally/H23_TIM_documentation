@@ -40,7 +40,7 @@ Retrouver dans leur préproduction au réféfrence en bas de la page :
 ![schéma plantation ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/EDRIA/docs/preproduction/medias/plan_direction_capteur.png)
 
 
-Une des composantes technologique utilisée est un sensore de chaleur. Ce matériel détecte les rayonnement infrarouge et déclenche les autres éléments dont les haut-parleur, les lumières, ... C'est-à dire ,lors du déclanchement, le projet commence émettre de la musique ainsi que les animations dans les enpoul de lumière. Cette oeuvre consiste de 4 sensores puisque la tour principale possède 4 côtés. 
+Une des composantes technologique utilisée est un sensore de chaleur. Ce matériel détecte les rayonnement infrarouge et déclenche les autres éléments dont les haut-parleur, les lumières, ... C'est-à dire ,lors du déclanchement, le projet commence émettre de la musique ainsi que les animations dans les enpoul de lumière. Cette oeuvre consiste de 4 sensores puisque la tour principale possède 4 côtés. L'objet peut capter 5 mètres de lui-même et a un délai de 2 secondes.
 
 Les cours du programme requis pour l'oeuvre :
 
