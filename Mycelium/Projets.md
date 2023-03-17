@@ -39,6 +39,9 @@ Retrouver dans leur préproduction au réféfrence en bas de la page :
 
 ![schéma plantation ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/EDRIA/docs/preproduction/medias/plan_direction_capteur.png)
 
+
+Une des composantes technologique utilisée est un sensore de mouvement. Ce matériel détecte les rayonnement infrarouge et déclenche les autres éléments dont les haut-parleur, les lumières, ... Cette oeuvre consiste de 4 sensores puisque la tour principale possède 4 côtés.
+
 Les cours du programme requis pour l'oeuvre :
 
 - Audio
