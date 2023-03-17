@@ -113,7 +113,12 @@ Les cours du programme requis pour l'oeuvre :
 
 ## Mon Opinion
 
-(1 à 4) le meilleur projet + justification
+(1 à 5) le meilleur projet + justification
+1. Echomarine
+2. Zodie-Gal
+3. Fungus
+4. LumaSol
+5. Nexum
 
 + Mes expérence pour chaques oeuvres
 
