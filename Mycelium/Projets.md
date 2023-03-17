@@ -9,7 +9,7 @@ en voie d'instection.
 
 Prototype de l'oeuvre "Echomarine" :
 
-[![Animation prototype Echomarine](https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CJT-zqAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLDWchMhTV8v2tc8LVp2gCmCdABPnA)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
+[![Animation prototype Echomarine](https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CNih0qAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLCFZvD24D1UFBzyO0cmySZHvlFSdg)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
 
 Schéma de plantation par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel
 
