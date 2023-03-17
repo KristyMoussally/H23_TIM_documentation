@@ -108,6 +108,12 @@ Les cours du programme requis pour l'oeuvre :
 - Audio
 - Programmation interactive
 
+## Mon Opinion
+
+(1 à 4) le meilleur projet + justification
+
++ Mes expérence pour chaques oeuvres
+
 ## Références
 
 Préproduction d'Echomarine : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
