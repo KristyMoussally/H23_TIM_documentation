@@ -113,7 +113,7 @@ Les cours du programme requis pour l'oeuvre :
 
 ## Mon Opinion
 
-(1 à 5) Oû le premier est le plus apprécié et le dernier le moins apprécié : 
+(1 à 5) Où le premier est le plus apprécié et le dernier le moins apprécié : 
 
 1. Echomarine, j'ai bien aimé les sons et les animation sont fluides.
 2. Edria, la musique et les lumières donnent un résultat calm ainsi que de l'énergie chaotique en même temps.
