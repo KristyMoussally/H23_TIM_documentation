@@ -113,14 +113,17 @@ Les cours du programme requis pour l'oeuvre :
 
 ## Mon Opinion
 
-(1 à 5) le meilleur projet + justification
-1. Echomarine
-2. Fungus
-3. Zodi-Gal
+(1 à 5) Oû le premier est le plus apprécié et le dernier le moins apprécié : + justification
+
+1. Echomarine, J'ai bien aimé les sons et les animation sont fluides.
+2. Fungus, La musique et les lumières donnent un résultat calm ainsi que de l'énergie chaotique en même temps.
+3. Zodi-Gal, Le style du design et les idées surabondantes qu'on voit dans la préprodiction 
 4. LumaSol
 5. Nexum
 
 + Mes expérence pour chaques oeuvres
+Pour Zodie-Gal, le graphic design me donne envis de dessiner. Les animations et le placement du jeu (l'ordie sur une trable dans le noir) support l'humeur du contenue.
+En effet, l'esthétique de l'environnement a ajouté de l'ambiance. 
 
 ## Références
 
