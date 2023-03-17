@@ -116,14 +116,22 @@ Les cours du programme requis pour l'oeuvre :
 (1 à 5) Oû le premier est le plus apprécié et le dernier le moins apprécié : 
 
 1. Echomarine, j'ai bien aimé les sons et les animation sont fluides.
-2. Fungus, la musique et les lumières donnent un résultat calm ainsi que de l'énergie chaotique en même temps.
+2. Edria, la musique et les lumières donnent un résultat calm ainsi que de l'énergie chaotique en même temps.
 3. Zodi-Gal, le style du design et les idées surabondantes qu'on voit dans la préprodiction 
 4. LumaSol, j'ai moins apprécié le fait qu'il y a juste une personne qui peut intéragir avec l'oeuvre
 5. Nexum, les positions des code Qr me donne un sentiment de doute où je parle de l'esthétique du sentier.
 
-+ Mes expérence pour chaques oeuvres
-Pour Zodie-Gal, le graphic design me donne envis de dessiner. Les animations et le placement du jeu (l'ordie sur une trable dans le noir) support l'humeur du contenue.
-En effet, l'esthétique de l'environnement a ajouté de l'ambiance. 
+Mes expérences avec chaques oeuvres :
+
+Echomarine dégage un énergie calm en faisant comparaison avec Oasis Immersion. Leur préproduction est organisée et claire à lire. Puisque j'ai eu de l'expérience avec Oasis Immersion, je peux déduire les éléments finales et aussi à faire une surprenante.
+
+Edria, leur noms changeaient pour Fungus, ce qui est moins organisé. Mais l'ensemble des idées dans leur préproduction démontre plusieurs animations et de bruits pour nous divertir.
+
+Pour Zodie-Gal, le graphic design montrer dan leur préproduction me donne envis de dessiner. Les animations et le placement du jeu (l'ordie sur une trable dans le noir) support l'humeur du contenue. En effet, l'esthétique de l'environnement a ajouté de l'ambiance (addition d'une lampe et projecteur de lumière chaude) 
+
+LumaSol
+
+Nexum
 
 ## Références
 
