@@ -17,7 +17,7 @@ Retrouver dans leur préproduction au réféfrence en bas de la page :
 
 ![schéma plantation](https://user-images.githubusercontent.com/90852900/216374037-8080de26-ad2f-4eeb-83c4-d4192a348956.png)
 
-Cette oeuvre utilise un kinect. Cet objet sert à capter des mouvements puis à déclencher un autre composant, le Rasberry pi. Le kinect a un capteur de profondeur qui lui permet de voir les agitations des visiteurs dans l'obscurité. À l'aide 
+Cette oeuvre utilise un kinect. Cet objet sert à capter des mouvements puis à déclencher un autre composant, le Rasberry pi. Le kinect a un capteur de profondeur qui lui permet de voir les agitations des visiteurs dans l'obscurité. À l'aide de Open Source, le kinect peut être programmer pour autre usage dont la contrôle d'autre technologie.
 
 Les cours du programme requis pour l'oeuvre :
 - Illustration numérique
