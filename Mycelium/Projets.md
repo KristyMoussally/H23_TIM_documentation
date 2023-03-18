@@ -66,6 +66,8 @@ Retrouver dans leur préproduction au réféfrence en bas de la page :
 
 ![schéma plantation LumaSol](https://user-images.githubusercontent.com/78884924/216165162-092f1422-7864-483e-8bc3-b1ad0243268e.png)
 
+LumaSol a un composant technoligique principal qui est  le LED Strip DMX. Cette lumière spéciale 
+
 Les cours du programme requis pour l'oeuvre :
 - Installation multimédia
 - Web
@@ -131,7 +133,7 @@ Edria, leur noms changeaient pour Fungus, ce qui est moins organisé. Mais l'ens
 
 Pour Zodie-Gal, le graphic design montrer dan leur préproduction me donne envis de dessiner. Les animations et le placement du jeu (l'ordie sur une trable dans le noir) support l'humeur du contenue. En effet, l'esthétique de l'environnement a ajouté de l'ambiance (addition d'une lampe et projecteur de lumière chaude) 
 
-LumaSol a un but assez réaliste pour les changements de lumière
+LumaSol a un but assez réaliste pour les changements de lumière, mais le déclenchement se fait à une personne. L'oeuvre consiste d'un vélo qui est l'objet principal pour l'activation des lumières dans l'arbre. 
 
 Nexum
 
