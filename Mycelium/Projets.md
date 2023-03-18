@@ -133,7 +133,7 @@ Edria, leur noms changeaient pour Fungus, ce qui est moins organisé. Mais l'ens
 
 Pour Zodie-Gal, le graphic design montrer dan leur préproduction me donne envis de dessiner. Les animations et le placement du jeu (l'ordie sur une trable dans le noir) support l'humeur du contenue. En effet, l'esthétique de l'environnement a ajouté de l'ambiance (addition d'une lampe et projecteur de lumière chaude) 
 
-LumaSol a un but assez réaliste pour les changements de lumière, mais le déclenchement se fait à une personne. L'oeuvre consiste d'un vélo qui est l'objet principal pour l'activation des lumières dans l'arbre. 
+LumaSol a un but assez réaliste pour les changements de lumière, mais le déclenchement se fait à une personne. L'oeuvre consiste d'un vélo qui est l'objet principal pour l'activation des lumières dans l'arbre. Seul le vélo peut activer completement l'oeuvre ce qui à comme résultat qu'une personne peut réaliser la magie offerte par LumaSol. Attendre un visiteur qui fait l'activité n'aurait pas de temps puis se fait attirer avec les oeuvres à côté.
 
 Nexum
 
