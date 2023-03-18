@@ -129,7 +129,7 @@ Edria, leur noms changeaient pour Fungus, ce qui est moins organisé. Mais l'ens
 
 Pour Zodie-Gal, le graphic design montrer dan leur préproduction me donne envis de dessiner. Les animations et le placement du jeu (l'ordie sur une trable dans le noir) support l'humeur du contenue. En effet, l'esthétique de l'environnement a ajouté de l'ambiance (addition d'une lampe et projecteur de lumière chaude) 
 
-LumaSol
+LumaSol a un but assez réaliste pour les changements de lumière
 
 Nexum
 
