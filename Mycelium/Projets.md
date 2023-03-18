@@ -9,7 +9,7 @@ en voie d'instection.
 
 Prototype de l'oeuvre "Echomarine" :
 
-[![Animation prototype Echomarine](https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CNih0qAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLCFZvD24D1UFBzyO0cmySZHvlFSdg)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
+[![Animation prototype Echomarine](https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CITd2KAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLAYtauvpo10pDJH-EgdB5QT5RfO_w)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
 
 Schéma de plantation par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel
 
@@ -32,14 +32,14 @@ Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'
 
 Prototype de l'oeuvre "Edria" :
 
-[![Animation prototype Entre Fungus](https://i9.ytimg.com/vi/xjFtlaNWrlU/mq2.jpg?sqp=CNih0qAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNiA5KH8wDw==&rs=AOn4CLCRWlqFlMNgqtOkM-uaDOa9XbLyUQ)]( https://www.youtube.com/shorts/xjFtlaNWrlU)
+[![Animation prototype Edria](https://i9.ytimg.com/vi/xjFtlaNWrlU/mq2.jpg?sqp=CITd2KAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNiA5KH8wDw==&rs=AOn4CLCqJk3ncsxFAqpiTKWrFvoEiHdmDA)]( https://www.youtube.com/shorts/xjFtlaNWrlU)
 
 Schéma de plantation par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
 Retrouver dans leur préproduction au réféfrence en bas de la page :
 
 
-![schéma plantation ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/EDRIA/docs/preproduction/medias/plan_direction_capteur.png)
+![schéma plantation Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/preproduction/medias/plan_direction_capteur.png)
 
 
 Une des composantes technologique utilisée est un sensore de chaleur. Ce matériel détecte les rayonnement infrarouge et déclenche les autres éléments dont les haut-parleur, les lumières, ... C'est-à dire ,lors du déclanchement, le projet commence émettre de la musique ainsi que les animations dans les enpoul de lumière. Cette oeuvre consiste de 4 sensores puisque la tour principale possède 4 côtés. L'objet peut capter 5 mètres de lui-même et a un délai de 2 secondes.
