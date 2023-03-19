@@ -110,6 +110,8 @@ Retrouver dans leur préproduction au réféfrence en bas de la page :
 
 ![schéma plantation zodie-gal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/preproduction/outsider.png)
 
+Zdie-Gal a beaucoup de dessin à la main. C'est pour ça que Abdanor Yana utilise une tablette graphique. Cette tablette est spécialisée pour des dessins numériques. Elle est composée d'une zone tactile, de quelques bouttons ainsi qu'un fil pour connecter à l'ordinateur puis naturellement son propre crayon . La zone tactile est une section  de dessin à l'aide du crayon particulier qui a la même fonction qu'une souris. Les chaques bouttons originals a une fonction d'un raccourci clavier différent. Bien que la tablette graphique sert à dessiner, il faut prendre en note que celle-ci ne marcherait pas si le logiciel, faite pour cet mark, n'est pas installé dans l'ordinateur.
+
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
 - Audio
