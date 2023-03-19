@@ -87,7 +87,7 @@ Retrouver dans leur préproduction au réféfrence en bas de la page :
 
 ![schéma plantation Nexum](https://tim-montmorency.com/2023/projets/Nexum/docs/preproduction/medias/Passe_lumiere.png)
 
-Nexum utilise une carte de son à 8 entrés est un composant externe donc il est requis d'utilisé USB dand l'ordinateur. Cet objet sert à améliorer les aspects sonores. Il peut être connecter avec plusieurs paramètres dont l'instrumment, un microphone, un casque de monitoring, l'ordinateur, clavier et haut-parleur.
+Nexum utilise une carte de son à 8 entrés est un composant externe donc il est requis d'utilisé USB dand l'ordinateur. Cet objet sert à améliorer les aspects sonores. Il peut être connecter avec plusieurs paramètres dont l'instrumment, un microphone, un casque de monitoring, l'ordinateur, clavier et haut-parleur. Alors, il peut record de la musique faite par l'utilisateur puisque la carte de son de l'ordinateur (déjà installer) a des limites qui ne pourraient pas aider dans la réalisation de Nexum.
 
 Les cours du programme requis pour l'oeuvre :
 - Animation 2D
