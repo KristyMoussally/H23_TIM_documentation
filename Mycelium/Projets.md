@@ -133,7 +133,7 @@ Pour Zodie-Gal, le graphic design montrer dan leur préproduction me donne envis
 
 LumaSol a un but assez réaliste pour les changements de lumière, mais le déclenchement se fait à une personne. L'oeuvre consiste d'un vélo qui est l'objet principal pour l'activation des lumières dans l'arbre. Seul le vélo peut activer completement l'oeuvre ce qui à comme résultat qu'une personne peut réaliser la magie offerte par LumaSol. Attendre un visiteur qui fait l'activité n'aurait pas de temps puis se fait attirer avec les oeuvres à côté.
 
-Nexum
+Nexum est seulement deux chemins qui réunissent l'oeuvre Edria et LumaSol. Il y a aussi des codes qr où l'animation 2D joue, mais ceux-ci se retrouvent sur quelques poteaux séparés puis il y a une difficulté à les voir. De plus, ces animations ne démarre pas automatiquement. Alors, les visiteurs doivent le faire manuellement et ,plus que l'oeuvre est plus intéressante le soir, les codes qr seront plus difficiles à les scanner. Le seul aspect qui ma fait réagir, c'est les lumières s'activent quand on marche au long des chemins.
 
 ## Références
 
