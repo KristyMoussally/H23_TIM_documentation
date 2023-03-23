@@ -15,3 +15,7 @@ Les projets réalisés par les étudiants de dernières années :
  - Nexum
  - Boucle la boucle
  - Zodie-Gal
+
+## Qui je suis
+
+Les informations sur moi se retrouvent dans semaine 1
