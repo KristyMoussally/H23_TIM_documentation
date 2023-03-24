@@ -1,6 +1,11 @@
-# H23_TIM_documentation
+# H23_TIM_documentation_Kristy Moussally
 
-Voici la documentation pour quelques oeuvres.
+Voici la documentation pour quelques oeuvres et conférences
+
+## Qui je suis
+
+Les informations sur moi se retrouvent dans semaine 1.
+
 
 ## Bian
 
@@ -16,6 +21,15 @@ Les projets réalisés par les étudiants de dernières années :
  - Boucle la boucle
  - Zodie-Gal
 
-## Qui je suis
 
-Les informations sur moi se retrouvent dans semaine 1
+## Par-delà les frontières par Nalini Malani
+
+Visite individuel
+
+## Halo création
+
+Informations sur la conférences de Yanik Daunais, Directeur général du 24 mars 2023.
+
+## Studio Antimodular
+
+Informations sur la conférence de Karine Charbonneau, cheffe des expositions du 28 mars 2023.
