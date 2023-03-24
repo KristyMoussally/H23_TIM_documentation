@@ -14,11 +14,27 @@ L'oeuvre est temporaire et à l'intérieur.
 
 ## Echomarine
 
+photo vue ensemble de l'oeuvre
+
 ## Les Artistes et l'oeuvre
+
+Un peu description du background de Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel 
+
+photo cartel 
+
+description
+
+Photo de l'oeuvre
 
 ## Type d'installation
 
+L'oeuvre est intéractive et immersive
+
+vidéo parlante
+
 ## Mise en espace
+
+croquis
 
 ## Composantes techniques
 
