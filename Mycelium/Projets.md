@@ -32,7 +32,7 @@ Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'
 
 Prototype de l'oeuvre "Edria" :
 
-[![Animation prototype Edria](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/Mycelium/media/edria_video_prototype.png?raw=true)]( https://www.youtube.com/shorts/xjFtlaNWrlU)
+[![Animation prototype Edria](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/Mycelium/media/edria_video_prototype.png?raw=true)( https://www.youtube.com/shorts/xjFtlaNWrlU)
 
 Schéma de plantation par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
