@@ -9,7 +9,7 @@ en voie d'instection.
 
 Prototype de l'oeuvre "Echomarine" :
 
-[![Animation prototype Echomarine](https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CPCa2qAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLDBrW9csIFwKd_3PcnCIfZe2gxyWQ)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
+![prototype échomarine](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/Mycelium/media/equomarine_video_prototype.png?raw=true)(https://www.youtube.com/shorts/kGjfmbS7kY4)
 
 Schéma de plantation par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel
 
@@ -32,7 +32,7 @@ Lien avec le thème de mycélium : En fusionnant la technologie et la nature, l'
 
 Prototype de l'oeuvre "Edria" :
 
-[![Animation prototype Edria](https://i9.ytimg.com/vi/xjFtlaNWrlU/mq2.jpg?sqp=CPCa2qAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNiA5KH8wDw==&rs=AOn4CLChGNYTbSb2fV_-sbT1O83f80O9-w)]( https://www.youtube.com/shorts/xjFtlaNWrlU)
+[![Animation prototype Edria](https://github.com/KristyMoussally/H23_TIM_documentation/blob/main/Mycelium/media/edria_video_prototype.png?raw=true)]( https://www.youtube.com/shorts/xjFtlaNWrlU)
 
 Schéma de plantation par Elwin Durand, Loic Dlorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
