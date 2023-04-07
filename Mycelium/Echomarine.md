@@ -63,6 +63,10 @@ L'oeuvre est placée dans une chambre isolée à côté du grand studio.
 - ordinateur pour les logicielles
 - 4 hauts-parleur + 1 carte de son
 
+caméra et un des hauts-paleur
+![caméra + haut-paleur](https://user-images.githubusercontent.com/112190488/230662342-cdb3b153-0efd-4118-a06c-a7da4ac684a8.png)
+
+
 ## Mes expériences
 
 ## Mon opinion
