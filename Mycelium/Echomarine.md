@@ -1,4 +1,7 @@
 # Mycélium
+L'exposition de Mycélium :
+
+![exposition](https://user-images.githubusercontent.com/112190488/230652045-a6b2855f-b86b-487b-9ce7-13511f2e25fe.png)
 
 ## Montmorency
 
@@ -7,6 +10,8 @@
 date de sortie: 21 mars 2023
 
 Photo prise par Joanne Mattar :
+
+![moi](https://user-images.githubusercontent.com/112190488/230652700-24644a27-788e-440e-a012-bfd1d94ec58d.png)
 
 photo
 
