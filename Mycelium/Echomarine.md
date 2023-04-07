@@ -58,6 +58,8 @@ Les coins de 2 draps blancs :
 ![draps](https://user-images.githubusercontent.com/112190488/230662500-4f3e25bc-3695-492e-8ad8-f2d5104b9a68.png)
 
 
+
+
 ## Éléments nécessaires pour la mise de l'exécution
 
 - support plafond
@@ -68,9 +70,18 @@ Les coins de 2 draps blancs :
 - ordinateur pour les logicielles
 - 4 hauts-parleur + 1 carte de son
 
+2 projecteurs :
+
+![projecteurs](https://user-images.githubusercontent.com/112190488/230662786-7547bbc2-e8dc-4b42-9ae9-2e75e990b00b.png)
+
+
 caméra et un des hauts-parleur :
 
 ![caméra + haut-paleur](https://user-images.githubusercontent.com/112190488/230662342-cdb3b153-0efd-4118-a06c-a7da4ac684a8.png)
+
+Kinect :
+
+![kinect](https://user-images.githubusercontent.com/112190488/230662711-b52a973c-f635-41ff-b4c2-6f3cd5e7d0b2.png)
 
 
 ## Mes expériences
