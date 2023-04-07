@@ -26,11 +26,17 @@ L'oeuvre est temporaire et à l'intérieur.
 
 Un peu description du background de Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel 
 
-photo cartel 
+Cartel d'échomarine
+
+![cartel](https://user-images.githubusercontent.com/112190488/230653957-a940de3b-2320-4a04-8bf4-867676a322ac.png)
+
 
 description de l'oeuvre
 
-Photo de l'oeuvre autre vue
+Vue de l'entrée
+
+![vue entrée](https://user-images.githubusercontent.com/112190488/230654034-fcf76bb1-3ad1-4c02-870a-ddeb5d8825f6.png)
+
 
 ## Type d'installation
 
