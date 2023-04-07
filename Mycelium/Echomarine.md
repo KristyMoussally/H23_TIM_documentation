@@ -13,13 +13,14 @@ Photo prise par Joanne Mattar :
 
 ![moi](https://user-images.githubusercontent.com/112190488/230652700-24644a27-788e-440e-a012-bfd1d94ec58d.png)
 
-photo
 
 L'oeuvre est temporaire et à l'intérieur.
 
 ## Echomarine
+Échomarine vue d'ensemble
 
-photo vue ensemble de l'oeuvre
+![vue enemble](https://user-images.githubusercontent.com/112190488/230653230-19158ec8-e36b-4a6b-81c6-b8602c051223.png)
+
 
 ## Les Artistes et l'oeuvre
 
