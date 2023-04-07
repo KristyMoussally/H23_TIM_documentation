@@ -16,9 +16,9 @@ La nartue morte 7 par Baron Lanteigne (visite en groupe)
 Les projets réalisés par les étudiants de dernières années :
 
  - Echomarine
- - ENTRE FUNGUS
+ - Edira
  - Nexum
- - Boucle la boucle
+ - Luma-sol
  - Zodie-Gal
 
 
