@@ -61,6 +61,9 @@ Tablette :
 
 ![tablette](https://user-images.githubusercontent.com/112190488/230663059-81a9e6a5-2b98-4601-9a85-13382bd51345.png)
 
+Pupitre de musique pour supporter la tablette :
+
+![pupitre musique](https://user-images.githubusercontent.com/112190488/230663351-b5b1edd3-968f-4b0b-b50e-faea54d52739.png)
 
 ## Éléments nécessaires pour la mise de l'exécution
 
