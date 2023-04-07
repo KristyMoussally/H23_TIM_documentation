@@ -38,7 +38,7 @@ Vue de l'entrée
 
 L'oeuvre est intéractive et immersive
 
-vidéo parlante --> intéractive
+![intéraction](https://user-images.githubusercontent.com/112190488/230658007-13e20748-9f21-4626-b62a-821158b64f98.png)(https://youtube.com/shorts/2SZ3csrr7bA?feature=share)
 
 ## Mise en espace
 
