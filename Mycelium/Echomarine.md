@@ -48,7 +48,20 @@ L'oeuvre est placée dans une chambre isolée à côté du grand studio.
 
 ## Composantes techniques
 
+- 3 draps blancs
+- Tablette
+- Rasberry Pi
+- pupitre de musique
+
 ## Éléments nécessaires pour la mise de l'exécution
+
+- support plafond
+- 3 projecteurs
+- caméra
+- Kinect
+- lumière RGB
+- ordinateur pour les logicielles
+- 4 hauts-parleur + 1 carte de son
 
 ## Mes expériences
 
