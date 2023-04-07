@@ -42,7 +42,9 @@ L'oeuvre est intéractive et immersive
 
 ## Mise en espace
 
-croquis
+L'oeuvre est placée dans une chambre isolée à côté du grand studio.
+
+![croquis](https://user-images.githubusercontent.com/112190488/230660444-bfc50e2c-1d4f-402a-8fb2-f1c89fd9f313.png)
 
 ## Composantes techniques
 
