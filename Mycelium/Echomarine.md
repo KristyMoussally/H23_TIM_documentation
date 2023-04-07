@@ -28,15 +28,15 @@ Un peu description du background de Florence Lapierre, Natacha Abdallah, Tracy G
 
 photo cartel 
 
-description
+description de l'oeuvre
 
-Photo de l'oeuvre
+Photo de l'oeuvre autre vue
 
 ## Type d'installation
 
 L'oeuvre est intéractive et immersive
 
-vidéo parlante
+vidéo parlante --> intéractive
 
 ## Mise en espace
 
