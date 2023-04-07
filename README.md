@@ -26,10 +26,12 @@ Les projets réalisés par les étudiants de dernières années :
 
 Visite individuel
 
-## Halo création
+## Les conférence
+
+### Halo création
 
 Informations sur la conférences de Yanik Daunais, Directeur général du 24 mars 2023.
 
-## Studio Antimodular
+### Studio Antimodular
 
 Informations sur la conférence de Karine Charbonneau, cheffe des expositions du 28 mars 2023.
