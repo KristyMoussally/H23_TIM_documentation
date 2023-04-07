@@ -57,7 +57,9 @@ Les coins de 2 draps blancs :
 
 ![draps](https://user-images.githubusercontent.com/112190488/230662500-4f3e25bc-3695-492e-8ad8-f2d5104b9a68.png)
 
+Tablette :
 
+![tablette](https://user-images.githubusercontent.com/112190488/230663059-81a9e6a5-2b98-4601-9a85-13382bd51345.png)
 
 
 ## Éléments nécessaires pour la mise de l'exécution
@@ -70,10 +72,13 @@ Les coins de 2 draps blancs :
 - ordinateur pour les logicielles
 - 4 hauts-parleur + 1 carte de son
 
+Support au plafond du petit studio :
+
+![support](https://user-images.githubusercontent.com/112190488/230662917-95e2118b-6f44-437c-a708-1c7524b65569.png)
+
 2 projecteurs :
 
 ![projecteurs](https://user-images.githubusercontent.com/112190488/230662786-7547bbc2-e8dc-4b42-9ae9-2e75e990b00b.png)
-
 
 caméra et un des hauts-parleur :
 
@@ -82,7 +87,6 @@ caméra et un des hauts-parleur :
 Kinect :
 
 ![kinect](https://user-images.githubusercontent.com/112190488/230662711-b52a973c-f635-41ff-b4c2-6f3cd5e7d0b2.png)
-
 
 ## Mes expériences
 
