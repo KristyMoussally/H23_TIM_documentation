@@ -53,6 +53,11 @@ L'oeuvre est placée dans une chambre isolée à côté du grand studio.
 - Rasberry Pi
 - pupitre de musique
 
+Les coins de 2 draps blancs :
+
+![draps](https://user-images.githubusercontent.com/112190488/230662500-4f3e25bc-3695-492e-8ad8-f2d5104b9a68.png)
+
+
 ## Éléments nécessaires pour la mise de l'exécution
 
 - support plafond
@@ -63,7 +68,8 @@ L'oeuvre est placée dans une chambre isolée à côté du grand studio.
 - ordinateur pour les logicielles
 - 4 hauts-parleur + 1 carte de son
 
-caméra et un des hauts-paleur
+caméra et un des hauts-parleur :
+
 ![caméra + haut-paleur](https://user-images.githubusercontent.com/112190488/230662342-cdb3b153-0efd-4118-a06c-a7da4ac684a8.png)
 
 
