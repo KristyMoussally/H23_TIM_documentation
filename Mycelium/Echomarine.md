@@ -11,18 +11,18 @@ date de sortie: 21 mars 2023
 
 Photo prise par Joanne Mattar :
 
-![moi](https://user-images.githubusercontent.com/112190488/230652700-24644a27-788e-440e-a012-bfd1d94ec58d.png)
+![moi dedans Echomarine](https://user-images.githubusercontent.com/112190488/230652700-24644a27-788e-440e-a012-bfd1d94ec58d.png)
 
 L'oeuvre est temporaire et à l'intérieur.
 
 ## Echomarine
-Échomarine vue d'ensemble
+Echomarine vue d'ensemble
 
 ![vue enemble](https://user-images.githubusercontent.com/112190488/230653230-19158ec8-e36b-4a6b-81c6-b8602c051223.png)
 
 ## Les Artistes et l'oeuvre
  
-Échomarine est réalisé par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel. Cette équipe d'étudiantes dans leur dernière année du collège utilisent la majorité des notions dans leur programme d'intégration multimédia pour y arriver à leur résultat final. En suuivant le thème de Mycélium, elles décident de créer un lien entre la nature et les matériaux utilisés pour sensibiliser la vie marine en voie d'instinction.
+Echomarine est réalisé par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel. Cette équipe d'étudiantes dans leur dernière année du collège utilisent la majorité des notions dans leur programme d'intégration multimédia pour y arriver à leur résultat final. En suuivant le thème de Mycélium, elles décident de créer un lien entre la nature et les matériaux utilisés pour sensibiliser la vie marine en voie d'instinction.
 
 Cartel d'échomarine
 
@@ -53,7 +53,7 @@ L'oeuvre est placée dans une chambre isolée à côté du grand studio.
 - Rasberry Pi
 - pupitre de musique
 
-Les coins de 2 draps blancs :
+Un des coins de 2 draps blancs :
 
 ![draps](https://user-images.githubusercontent.com/112190488/230662500-4f3e25bc-3695-492e-8ad8-f2d5104b9a68.png)
 
@@ -95,3 +95,6 @@ Kinect :
 
 ## Mon opinion
 
+## Référence
+
+Pré-production de Echomarine : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html 
