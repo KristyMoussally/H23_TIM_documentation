@@ -23,8 +23,8 @@ L'oeuvre est temporaire et à l'intérieur.
 
 
 ## Les Artistes et l'oeuvre
-
-Un peu description du background de Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel 
+ 
+Échomarine est réalisé par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel. Cette équipe d'étudiantes dans leur dernière année du collège utilisent la majorité des notions dans leur programme d'intégration multimédia pour y arriver à leur résultat final. En suuivant le thème de Mycélium, elles décident de créer un lien entre la nature et les matériaux utilisés pour sensibiliser la vie marine en voie d'instinction.
 
 Cartel d'échomarine
 
