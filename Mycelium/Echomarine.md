@@ -30,8 +30,7 @@ Cartel d'échomarine
 
 ![cartel](https://user-images.githubusercontent.com/112190488/230653957-a940de3b-2320-4a04-8bf4-867676a322ac.png)
 
-
-description de l'oeuvre
+L'oeuvre consiste d'un pupitre de musique supportant une tablette au centre. Quand un boutton est activé, les projecteurs s'activent puis projetent sur les trois draps blancs. Des animations débutent lors de la projection où des animaux marins se déplacent sur chaques draps ainsi que les bulle puis les algues continuent de bougé en boucles.
 
 Vue de l'entrée
 
