@@ -6,7 +6,6 @@ Voici la documentation pour quelques oeuvres et conférences
 
 Les informations sur moi se retrouvent dans semaine 1.
 
-
 ## Bian
 
 La nartue morte 7 par Baron Lanteigne (visite en groupe)
@@ -21,10 +20,9 @@ Les projets réalisés par les étudiants de dernières années :
  - Luma-sol
  - Zodie-Gal
 
-
 ## Par-delà les frontières par Nalini Malani
 
-Visite individuel
+Visite individuel au Muséée des Beaux-Arts Montréal
 
 ## Les conférence
 
