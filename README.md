@@ -24,7 +24,7 @@ Les projets réalisés par les étudiants de dernières années :
 
 Visite individuel au Muséée des Beaux-Arts Montréal
 
-## Les conférence
+## Les conférences
 
 ### Halo création
 
