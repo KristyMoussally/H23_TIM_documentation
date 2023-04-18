@@ -107,6 +107,10 @@ Intéraction de l'oeuvre.
 
 J'ai bien aprécié les animations surtout l'ambiances et les effets sonores. En effet, les sons me fait rappeler de mes expériences avec ma sortie chez Oasis Immersions au secondaire. Cette sortie m'a beaucoup touché avec la musique puisque que c'était ma première fois d'aller visiter une place spécialisée pour des animations immersives. Alors, les sons émisent par l'oeuvre Echomarine me donne des moments nostalgiques et des émotions positives puis familier.
 
+Sons et ambiance immersive :
+
+![Echomarine sons](https://i9.ytimg.com/vi/EcWEDPN9lOs/mq2.jpg?sqp=CKDq-qEG-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYEyAtKH8wDw==&rs=AOn4CLDf8Ff7qloJ2UfnFO8nNkpZka9xdQ)(https://youtube.com/shorts/EcWEDPN9lOs?feature=share)
+
 J'aurai plutôt agrandir ou changeait la salle puisqu'elle peut que contenir 3 personnes au maximum. Il est préférable pour eux qu'un visiteur d'intéragirsse à la fois avec l'oeuvre, ce qui ne serait pas agréable pour visiter en groupe (le processsus sera plus longs). Par exemple : une famille ne pourra pas avoir une expérience positive si chaque membre de la famille ne le partage pas ensemble en même-temps.
 
 Vue de l'entrée (on peut estimer que la dimenssion de la pièce intéractive est petit) :
