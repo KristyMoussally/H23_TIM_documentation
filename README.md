@@ -33,3 +33,7 @@ Informations sur la conférences de Yanik Daunais, Directeur général du 24 mar
 ### Studio Antimodular
 
 Informations sur la conférence de Karine Charbonneau, cheffe des expositions du 28 mars 2023.
+
+## Dispositif aux places des sciences à Montréal
+
+Information sur un dispositif à Montréal (visite en groupe)
