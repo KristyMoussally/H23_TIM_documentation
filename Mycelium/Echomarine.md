@@ -93,7 +93,9 @@ Kinect :
 
 ## Mes expériences
 
-En entrant dans la salle, le visiteur active une lumirère placée au-dessus de la tablette. Celui-ci met en valeur d'importance sur l'objet est au contrôle de l'oeuvre. Puisque cet objet électronique est positionné au milieu, le visiteur a une meilleure perspective des animations projetés sur les 3 murs qui l'entourent. Dans d'autres mots, la personne est dos au mur qui n'est pas intéractif. Même s'il n'y a pas d'individus qui sont présents dans la salle, le nom de l'oeuvre est projeté sur le deuxième mur (celui du milieu) accompagné avec de la music et d'autres sons immersives. Le titre fait une animation de « fade-out » quand nous ,en tant que visiteur, mettons devant la pupitre de musique qui soutient la tablette.
+En entrant dans la salle, le visiteur active une lumirère placée au-dessus de la tablette. Celui-ci met en valeur d'importance sur l'objet est au contrôle de l'oeuvre. Puisque cet objet électronique est positionné au milieu, le visiteur a une meilleure perspective des animations projetés sur les 3 murs qui l'entourent. Dans d'autres mots, la personne est dos au mur qui n'est pas intéractif. Même s'il n'y a pas d'individus qui sont présents dans la salle, le nom de l'oeuvre est projeté sur le deuxième mur (celui du milieu) accompagné avec de la music et d'autres sons immersives. Le titre fait une animation de « fade-out » quand nous ,en tant que visiteur, mettons devant la pupitre de musique qui soutient la tablette. Chaque boutton ont une animation unique avec des sons de l'animal marin qui sont au lien avec ceului-ci.
+
+Activation de la lumière et l'animation du titre avant de se placé :
 
 ![titre avant intéraction](https://user-images.githubusercontent.com/112190488/232804136-c77925ac-7f9f-4757-a304-fbf21361cede.png)(https://youtu.be/9UruPRb-rcY)
 
