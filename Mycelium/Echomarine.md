@@ -93,7 +93,7 @@ Kinect :
 
 ## Mes expériences
 
-En entrant dans la salle, le visiteur active une lumirère placée au-dessus de la tablette. Celui-ci met en valeur d'importance sur l'objet est au contrôle de l'oeuvre. Puisque cet objet électronique est positionné au milieu, le visiteur a un meilleur vue des animations projetés sur les 3 murs qui l'entourent.
+En entrant dans la salle, le visiteur active une lumirère placée au-dessus de la tablette. Celui-ci met en valeur d'importance sur l'objet est au contrôle de l'oeuvre. Puisque cet objet électronique est positionné au milieu, le visiteur a un meilleur vue des animations projetés sur les 3 murs qui l'entourent. Même si il n'y a pas d'individus qui sont présents dans la salle, le nom de l'oeuvre est projeté sur le deuxième mur (celui du milieu).
 
 ## Mon opinion
 
