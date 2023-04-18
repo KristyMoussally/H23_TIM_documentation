@@ -108,6 +108,10 @@ Intéraction de l'oeuvre.
 
 J'aurai plutôt agrandir ou changeait la salle puisqu'elle peut que contenir 3 personnes au maximum. Il est préférable pour eux qu'un visiteur d'intéragirsse à la fois avec l'oeuvre, ce qui ne serait pas agréable pour visiter en groupe (le processsus sera plus longs). Par exemple : une famille ne pourra pas avoir une expérience positive si chaque membre de la famille ne le partage pas ensemble en même-temps.
 
+Vue de l'entrée (on peut estimer que la dimenssion de la pièce intéractive est petit) :
+
+![vue entrée](https://user-images.githubusercontent.com/112190488/230654034-fcf76bb1-3ad1-4c02-870a-ddeb5d8825f6.png)
+
 ## Référence
 
 Pré-production de Echomarine : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html 
