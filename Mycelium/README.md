@@ -1,6 +1,6 @@
 ## Thème mycelium
 
-Des étudiants en technique d'intégration multimédia ont réalisé des oeuvres intéractives au collège Montmorency.
+Ce dossier contient des informations sur les projets des étudiants dans leurs dernière années en technique d'intégration multimédia au collège Montmorency.
 
 - media
 - Les projets d'installations (prototype) 
