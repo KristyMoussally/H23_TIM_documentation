@@ -105,7 +105,7 @@ Intéraction de l'oeuvre.
 
 ## Mon opinion
 
-J'ai bien aprécié les animations surtout l'ambiances et les effets sonores. 
+J'ai bien aprécié les animations surtout l'ambiances et les effets sonores. En effet, les sons me fait rappeler de mes expériences avec ma sortie chez Oasis Immersions au secondaire. Cette sortie m'a beaucoup touché avec la musique puisque que c'était ma première fois d'aller visiter une place spécialisée pour des animations immersives. Alors, les sons émisent par l'oeuvre Echomarine me donne des moments nostalgiques et des émotions positives puis familier.
 
 J'aurai plutôt agrandir ou changeait la salle puisqu'elle peut que contenir 3 personnes au maximum. Il est préférable pour eux qu'un visiteur d'intéragirsse à la fois avec l'oeuvre, ce qui ne serait pas agréable pour visiter en groupe (le processsus sera plus longs). Par exemple : une famille ne pourra pas avoir une expérience positive si chaque membre de la famille ne le partage pas ensemble en même-temps.
 
