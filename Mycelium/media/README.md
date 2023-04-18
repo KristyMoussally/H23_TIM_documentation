@@ -8,6 +8,10 @@ Echomarine prototype
 
 [![Animation prototype Echomarine](https://i9.ytimg.com/vi/kGjfmbS7kY4/mq2.jpg?sqp=CNih0qAG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKSA8KH8wDw==&rs=AOn4CLCFZvD24D1UFBzyO0cmySZHvlFSdg)](https://youtube.com/shorts/kGjfmbS7kY4?feature=share)
 
+Echomarine sons/ambiance :
+
+![Echomarine sons](https://i9.ytimg.com/vi/EcWEDPN9lOs/mq2.jpg?sqp=CKDq-qEG-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYEyAtKH8wDw==&rs=AOn4CLDf8Ff7qloJ2UfnFO8nNkpZka9xdQ)(https://youtube.com/shorts/EcWEDPN9lOs?feature=share)
+
 Titre avant intéraction:
 
 ![titre avant intéraction](https://user-images.githubusercontent.com/112190488/232804136-c77925ac-7f9f-4757-a304-fbf21361cede.png)(https://youtu.be/9UruPRb-rcY)
