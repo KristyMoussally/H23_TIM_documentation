@@ -1,4 +1,4 @@
-## Poto et vidéo
+## Photo et vidéo
 
 Ce fichier .md contient tous les photos des projets dans Mycélium.
 
