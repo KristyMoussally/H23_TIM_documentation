@@ -34,6 +34,6 @@ Informations sur la conférences de Yanik Daunais, Directeur général du 24 mar
 
 Informations sur la conférence de Karine Charbonneau, cheffe des expositions du 28 mars 2023.
 
-## Dispositif aux places des sciences à Montréal
+## Dispositif au Centre des sciences à Montréal
 
 Information sur un dispositif à Montréal (visite en groupe)
