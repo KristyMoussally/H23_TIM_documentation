@@ -22,7 +22,7 @@ Les projets réalisés par les étudiants de dernières années :
 
 ## Par-delà les frontières par Nalini Malani
 
-Visite individuel au Muséée des Beaux-Arts Montréal
+Visite individuel au Musée des Beaux-Arts Montréal
 
 ## Les conférences
 
