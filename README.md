@@ -1,4 +1,4 @@
-# H23_TIM_documentation_Kristy Moussally
+# H23 TIM documentation Kristy Moussally
 
 Voici la documentation pour quelques oeuvres et conférences
 
