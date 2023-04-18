@@ -7,7 +7,7 @@ L'exposition de Mycélium :
 
 475 Bd de l'Avenir, Laval, QC H7N 5H9
 
-date de sortie: 21 mars 2023
+Date de sortie: 21 mars 2023
 
 Photo prise par Joanne Mattar :
 
