@@ -105,6 +105,7 @@ Intéraction de l'oeuvre.
 
 ## Mon opinion
 
+J'ai bien aprécié les animations surtout l'ambiances et les effets sonores.
 
 J'aurai plutôt agrandir ou changeait la salle puisqu'elle peut que contenir 3 personnes au maximum. Il est préférable pour eux qu'un visiteur d'intéragirsse à la fois avec l'oeuvre, ce qui ne serait pas agréable pour visiter en groupe (le processsus sera plus longs). Par exemple : une famille ne pourra pas avoir une expérience positive si chaque membre de la famille ne le partage pas ensemble en même-temps.
 
