@@ -42,7 +42,7 @@ L'oeuvre est contemplative et immersive
 
 ## Mise en espace
 
-(croquis taille et placement dans musée) x 2
+(croquis taille et placement dans musée) x 2 (plan dessus) (plan d'un coin)
 
 ## Les composantes et techniques
 
@@ -78,7 +78,9 @@ Dès que les visiteurs entrent dans la pièce obscure, ils se déplacent à l'ai
 
 ## Mon opinion
 
-J'ai appréssié
+J'ai appréssié les animations 
+
+Je changerai la musique
 
 ### Lien avec les oeuvres (autres visites)
 
