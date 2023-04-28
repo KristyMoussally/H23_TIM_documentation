@@ -53,6 +53,9 @@ L'oeuvre est contemplative et immersive
 - prejecteurs
 - composante de tremblement de terre
 
+
+Quelques projecteurs accrochés sur support du plafond :
+
 ![projecteurs](https://user-images.githubusercontent.com/112190488/235179949-79412c14-5ca5-4443-96b5-a7e72e9595c9.png)
 
 (composant tremblement de terre)
