@@ -63,7 +63,10 @@ Quelques projecteurs accrochés sur support du plafond :
 
 ![support plafond + touts projecteurs](https://user-images.githubusercontent.com/112190488/235181511-20a44ad0-6a9a-4097-af78-194a4e37a125.png)
 
-(composant tremblement de terre)
+Une composante pour sécuriser l'oeuvre contre un tremblement de terre :
+
+![composant tremblement de terre](https://user-images.githubusercontent.com/112190488/235195032-cc5e0216-cdda-4138-9f0c-d9d7e41585c0.png)
+
 
 ## Mes expériences
 
