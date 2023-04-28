@@ -22,7 +22,7 @@ L'oeuvre est temporaire et à l'intérieur.
 
 Nalini Malani est une artiste indienne qui s'inspire de ses expériences en tant que réfugier. Elle a réalisé plusieurs oeuvres oû leurs formes de média sont différentes (vidéo, peinture, installation et théartre). Elle a travaillé avec plusieurs collaborateurs pour chaque support média. De plus, elle a participé a plusieurs expositions.
 
-(cartel)
+![cartel](https://user-images.githubusercontent.com/112190488/235185046-13681522-ffe5-4b4d-b159-6c5d1b956d92.png)
 
 Nalini Malani Par-delà les frontières est une oeuvre ouverte au publique à 23 mars 2023. Celle-ci est composée de plusieurs projecteurs dont différents animations jouent en boucle supportés avec une musique editée. Elle est installée dans une pièce sombre oû les animations sont les seuls sources de lumières que les visiteurs 
 puissent se déplacer.
