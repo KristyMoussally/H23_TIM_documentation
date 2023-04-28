@@ -17,11 +17,14 @@ L'oeuvre est temporaire et à l'intérieur.
 ## Nalani Malani Par-delà les frontières
 
 Photo prise par Filipe Braga sur l'oeuvre inspiré <i>Can You Hear Me?</i> :
-![vue ensemble](https://user-images.githubusercontent.com/112190488/235193053-76406563-c883-4aaf-8331-f0cea44e6291.png)
+
+![vue ensemble de Can You Hear Me?](https://user-images.githubusercontent.com/112190488/235193053-76406563-c883-4aaf-8331-f0cea44e6291.png)
 
 ## À propos de l'artiste et de l'oeuvre
 
 Nalini Malani est une artiste indienne qui s'inspire de ses expériences en tant que réfugier. Elle a réalisé plusieurs oeuvres oû leurs formes de média sont différentes (vidéo, peinture, installation et théartre). Elle a travaillé avec plusieurs collaborateurs pour chaque support média. De plus, elle a participé a plusieurs expositions.
+
+Cartel de l'artiste et l'oeuvre en anglais :
 
 ![cartel Nalini Malani Par-Delà les frontières](https://user-images.githubusercontent.com/112190488/235185046-13681522-ffe5-4b4d-b159-6c5d1b956d92.png)
 
