@@ -16,7 +16,9 @@ L'oeuvre est temporaire et à l'intérieur.
 
 ## Nalani Malani Par-delà les frontières
 
-(vue ensemble de l'oeuvre)
+Vue de l’installation Can You Hear Me? [M’entends-tu ?] de Nalini Malani au Museu de Arte Contemporânea de Serralves, Porto, 2020. Salle d’animation. © Nalini Malani / Photo Filipe Braga
+
+![image](https://user-images.githubusercontent.com/112190488/235193053-76406563-c883-4aaf-8331-f0cea44e6291.png)
 
 ## À propos de l'artiste et de l'oeuvre
 
