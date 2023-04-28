@@ -18,18 +18,19 @@ L'oeuvre est temporaire et à l'intérieur.
 
 Vue de l’installation Can You Hear Me? [M’entends-tu ?] de Nalini Malani au Museu de Arte Contemporânea de Serralves, Porto, 2020. Salle d’animation. © Nalini Malani / Photo Filipe Braga
 
-![image](https://user-images.githubusercontent.com/112190488/235193053-76406563-c883-4aaf-8331-f0cea44e6291.png)
+![vue ensemble](https://user-images.githubusercontent.com/112190488/235193053-76406563-c883-4aaf-8331-f0cea44e6291.png)
 
 ## À propos de l'artiste et de l'oeuvre
 
 Nalini Malani est une artiste indienne qui s'inspire de ses expériences en tant que réfugier. Elle a réalisé plusieurs oeuvres oû leurs formes de média sont différentes (vidéo, peinture, installation et théartre). Elle a travaillé avec plusieurs collaborateurs pour chaque support média. De plus, elle a participé a plusieurs expositions.
 
-![cartel Nalini Malani Par-Delà les frontières](<https://user-images.githubusercontent.com/112190488/235185046-13681522-ffe5-4b4d-b159-6c5d1b956d92.png>)
+![cartel Nalini Malani Par-Delà les frontières](https://user-images.githubusercontent.com/112190488/235185046-13681522-ffe5-4b4d-b159-6c5d1b956d92.png)
 
-<i>Nalini Malani Par-delà les frontières</i> est une oeuvre ouverte au publique à 23 mars 2023. Cette derbière est énormément inspirée par une des oeuvre <i>Can You Hear Me?</i> installée dans Whitechapel de 2018 à 2019 Celle-ci est composée de plusieurs projecteurs dont différents animations jouent en boucle supportés avec une musique editée. Elle est installée dans une pièce sombre oû les animations sont les seuls sources de lumières que les visiteurs 
+<i>Nalini Malani Par-delà les frontières</i> est une oeuvre ouverte au publique à 23 mars 2023. Cette derbière est énormément inspirée par une des oeuvre <i>Can You Hear Me?</i> installée de 2018 à 2019. Celle-ci est composée de plusieurs projecteurs dont différents animations jouent en boucle supportés avec une musique editée. Elle est installée dans une pièce sombre oû les animations sont les seuls sources de lumières que les visiteurs 
 puissent se déplacer.
 
 (autre vue oeuvre)
+
 
 ## Type d'installation
 
