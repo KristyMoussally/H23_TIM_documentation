@@ -50,13 +50,15 @@ L'oeuvre est contemplative et immersive
 
 - support plafond
 - murs spécialement utilisées pour projections
-- prejecteurs
+- 9 projecteurs
 - composante de tremblement de terre
 
 
 Quelques projecteurs accrochés sur support du plafond :
 
 ![projecteurs](https://user-images.githubusercontent.com/112190488/235179949-79412c14-5ca5-4443-96b5-a7e72e9595c9.png)
+
+![support plafond + touts projecteurs](https://user-images.githubusercontent.com/112190488/235181511-20a44ad0-6a9a-4097-af78-194a4e37a125.png)
 
 (composant tremblement de terre)
 
