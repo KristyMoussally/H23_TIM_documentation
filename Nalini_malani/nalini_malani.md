@@ -1,6 +1,6 @@
 # Parall(elles) Une autre histoire du design
 
-photo expositions affiche
+![exposition](https://user-images.githubusercontent.com/112190488/235185728-c0cf9602-9896-4d0e-97b7-8fa8451053df.png)
 
 ## Musée des beaux-arts Montréal 
 
