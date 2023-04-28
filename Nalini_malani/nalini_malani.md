@@ -73,4 +73,5 @@ Dès que les visiteurs entrent dans la pièce obscure, ils se déplacent à l'ai
 ## Références
 
 Musée des beaux-arts Montréal : https://www.mbam.qc.ca/fr/expositions/nalini-malani/
+
 Site de l'artiste : https://www.nalinimalani.com/
