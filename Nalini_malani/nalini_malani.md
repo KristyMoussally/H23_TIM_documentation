@@ -10,7 +10,7 @@ Date de sortie : 1 avril 2023
 
 Photo prise par Line Chami :
 
-![moi devant MBAM](https://user-images.githubusercontent.com/112190488/235186378-a459873f-dfc2-49d5-a434-a0b150f619e2.png)
+![moi devent MBAM](https://user-images.githubusercontent.com/112190488/235186826-3669ea5c-9375-4a53-aebe-b004db277270.png)
 
 L'oeuvre est temporaire et à l'intérieur.
 
