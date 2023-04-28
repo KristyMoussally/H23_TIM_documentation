@@ -76,4 +76,4 @@ Musée des beaux-arts Montréal : https://www.mbam.qc.ca/fr/expositions/nalini-m
 
 Site de l'artiste : https://www.nalinimalani.com/
 
-Site sur <i>Can You Hear Me?</i> : https://www.whitechapelgallery.org/about/blog/nalini-malani-can-you-hear-me/ 
+Site de Whitechapel sur <i>Can You Hear Me?</i> : https://www.whitechapelgallery.org/about/blog/nalini-malani-can-you-hear-me/ 
