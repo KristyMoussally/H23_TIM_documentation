@@ -16,7 +16,7 @@ L'oeuvre est temporaire et à l'intérieur.
 
 ## Nalani Malani Par-delà les frontières
 
-Photo prise par Filipe Braga sur l'oeuvre inspiré <i>Can You Hear Me?</i> 
+Photo prise par Filipe Braga sur l'oeuvre inspiré <i>Can You Hear Me?</i> :
 ![vue ensemble](https://user-images.githubusercontent.com/112190488/235193053-76406563-c883-4aaf-8331-f0cea44e6291.png)
 
 ## À propos de l'artiste et de l'oeuvre
