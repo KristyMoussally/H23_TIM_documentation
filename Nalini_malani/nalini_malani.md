@@ -49,7 +49,10 @@ L'oeuvre est contemplative et immersive
 - 7 sac sables grandes tailles
 - equipement sonore
 
-(sac de sable)
+Sac de sable :
+
+![sac de sable](https://user-images.githubusercontent.com/112190488/235376039-277080fc-356e-4163-9efc-668d608e4d7f.png)
+
 
 ## Les éléments nécessaires pour la mise de l'exécution
 
