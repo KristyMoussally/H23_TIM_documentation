@@ -31,7 +31,9 @@ Cartel de l'artiste et l'oeuvre en anglais :
 <i>Nalini Malani Par-delà les frontières</i> est une oeuvre ouverte au publique à 23 mars 2023. Cette derbière est énormément inspirée par une des oeuvre <i>Can You Hear Me?</i> installée de 2018 à 2019. Celle-ci est composée de plusieurs projecteurs dont différents animations jouent en boucle supportés avec une musique editée. Elle est installée dans une pièce sombre oû les animations sont les seuls sources de lumières que les visiteurs 
 puissent se déplacer.
 
-(autre vue oeuvre)
+Vue coin gauche de la salle :
+
+![vue coin gauche](https://user-images.githubusercontent.com/112190488/235376165-ef44a853-a5cb-46b1-a073-32bdb1f198a8.png)
 
 
 ## Type d'installation
