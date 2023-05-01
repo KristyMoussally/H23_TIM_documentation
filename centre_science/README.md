@@ -3,4 +3,4 @@
 Ce dossier contient des informations sur un dispositif au Centre des science (visite en groupe)
 
 - media
-- nom dispositif
+- Les Gènes
