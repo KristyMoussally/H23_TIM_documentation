@@ -93,8 +93,6 @@ Je changerai la musique calme pour une musique
 
 (photo ou vidéo négative)
 
-### Lien avec les oeuvres (autres visites)
-
 ## Références
 
 Musée des beaux-arts Montréal : https://www.mbam.qc.ca/fr/expositions/nalini-malani/
