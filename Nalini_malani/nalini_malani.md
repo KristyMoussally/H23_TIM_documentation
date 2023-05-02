@@ -63,6 +63,7 @@ Sac de sable :
 - murs spécialement utilisées pour projections
 - 9 projecteurs
 - composante de tremblement de terre
+- une petite lumière en arrière pour faciliter le déplacement
 
 Quelques projecteurs accrochés sur support du plafond :
 
