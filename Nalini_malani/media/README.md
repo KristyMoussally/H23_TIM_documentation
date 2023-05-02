@@ -3,7 +3,7 @@
 Ce dossier contient des éléments visuels par rapport de l'oeuvre de Nalini Malani
 
 - photo
-- shéma
+- croquis
 - vidéos
 
 Quelques photos :
