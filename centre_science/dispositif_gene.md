@@ -33,3 +33,19 @@ description du dispositif
 Le dispositif est intéractif :
 
 (vidéo intéractif)
+
+description de la fonction du dispositif
+
+##  Mise en espace
+
+(photo croquis)
+
+## Composantes et techniques
+
+## Éléments nécessaires à la mise du dispositif
+
+## Mes espériences
+
+## Mon opinion
+
+## Références
