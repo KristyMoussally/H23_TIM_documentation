@@ -89,7 +89,7 @@ J'ai appréssié les animations
 
 (photo ou vidéo positive)
 
-Je changerai la musique calme pour une musique 
+Je changerai la musique calme pour une musique plus alarmant. L'eouvre énornément inspirée <i>Can You Hear Me?</i> est basée sur une vrai histoire effrayant. De plus, Les animations en un thèmes sombres puis roulent vites au lieu de suivre le thème de la musique choisie.
 
 (photo ou vidéo négative)
 
