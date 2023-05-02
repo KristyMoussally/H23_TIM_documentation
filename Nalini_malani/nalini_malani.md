@@ -35,10 +35,9 @@ Vue coin gauche de la salle :
 
 ![vue coin gauche](https://user-images.githubusercontent.com/112190488/235376165-ef44a853-a5cb-46b1-a073-32bdb1f198a8.png)
 
-
 ## Type d'installation
 
-L'oeuvre est contemplative et immersive
+L'oeuvre est contemplative et immersive :
 
 [![video explique l'installation](https://user-images.githubusercontent.com/112190488/235722814-a8aec43d-f972-44ab-8ffa-ba983310fe88.png)](https://youtu.be/OVwuhxQvR4w)
 
@@ -51,13 +50,12 @@ Vue par dessus et du coin gauche :
 
 ## Les composantes et techniques
 
-- 7 sac sables grandes tailles
+- 7 sacs de sables grandes tailles
 - equipement sonore
 
 Sac de sable :
 
 ![sac de sable](https://user-images.githubusercontent.com/112190488/235376039-277080fc-356e-4163-9efc-668d608e4d7f.png)
-
 
 ## Les éléments nécessaires pour la mise de l'exécution
 
@@ -65,7 +63,6 @@ Sac de sable :
 - murs spécialement utilisées pour projections
 - 9 projecteurs
 - composante de tremblement de terre
-
 
 Quelques projecteurs accrochés sur support du plafond :
 
@@ -77,7 +74,6 @@ Une composante pour sécuriser l'oeuvre contre un tremblement de terre :
 
 ![composant tremblement de terre](https://user-images.githubusercontent.com/112190488/235195032-cc5e0216-cdda-4138-9f0c-d9d7e41585c0.png)
 
-
 ## Mes expériences
 
 Dès que les visiteurs entrent dans la pièce obscure, ils se déplacent à l'aide d'une petite lumière qui projete sur le mur d'arrière ainsi que la lumière émise par les animations. Ils se positionnent en arrière ou sur les grandes sac de sables situées au centre de la pièce. Il y a neuf animations qui jouent en même temps avec une musique douce. 
@@ -88,7 +84,7 @@ Dès que les visiteurs entrent dans la pièce obscure, ils se déplacent à l'ai
 
 J'ai appréssié les animations 
 
-Je changerai la musique
+Je changerai la musique calme pour une musique plus térrifiant puisque que les animations sont plus vites.
 
 ### Lien avec les oeuvres (autres visites)
 
