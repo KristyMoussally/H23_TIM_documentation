@@ -40,7 +40,7 @@ Vue coin gauche de la salle :
 
 L'oeuvre est contemplative et immersive
 
-(vidéo expliquant ce que les visiteurs font dans la pièce de l'oeuvre)
+[![video explique l'installation](https://user-images.githubusercontent.com/112190488/235722814-a8aec43d-f972-44ab-8ffa-ba983310fe88.png)](https://youtu.be/OVwuhxQvR4w)
 
 ## Mise en espace
 
