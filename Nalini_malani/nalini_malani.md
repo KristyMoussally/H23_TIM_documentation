@@ -85,11 +85,11 @@ La position des visiteurs:
 
 ## Mon opinion
 
-J'ai appréssié les animations 
+J'ai apprécié les animations, car ils sont tous différents. Puisqu'ils jouent vite et en boucle dans tous les projecteurs, c'est facile à se perdre dedans l'oeuvre.
 
 (photo ou vidéo positive)
 
-Je changerai la musique calme pour une musique plus alarmant. L'eouvre énornément inspirée <i>Can You Hear Me?</i> est basée sur une vrai histoire effrayant. De plus, Les animations en un thèmes sombres puis roulent vites au lieu de suivre le thème de la musique choisie. En gardant celle-ci, l'oeuvre ne sera plus stable puisqu'elle ne fait plus de sens.
+Je changerai la musique calme pour une musique plus alarmant. L'eouvre énornément inspirée <i>Can You Hear Me?</i> est basée sur une vrai histoire effrayant. De plus, Les animations en un thèmes sombres puis roulent vites au lieu de suivre le thème de la musique choisie. En gardant celle-ci, l'oeuvre ne sera moins stable puisqu'elle ne fait plus de sens. Avec la musique relaxante, quelques des visiteurs peuvent facilement dormir sur les sacs de sables.
 
 (photo ou vidéo négative)
 
