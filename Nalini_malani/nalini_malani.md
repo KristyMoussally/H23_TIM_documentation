@@ -103,4 +103,4 @@ Site de l'artiste : https://www.nalinimalani.com/
 
 Site de Whitechapel sur <i>Can You Hear Me?</i> : https://www.whitechapelgallery.org/about/blog/nalini-malani-can-you-hear-me/ 
 
-Article sur Nalini Malani sur son oeuvre: https://ici.radio-canada.ca/nouvelle/1965584/nalini-malani-exposition-beaux-arts-montreal
+Article sur Nalini Malani sur son oeuvre, Par-delà les frontières: https://ici.radio-canada.ca/nouvelle/1965584/nalini-malani-exposition-beaux-arts-montreal
