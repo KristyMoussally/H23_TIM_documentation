@@ -45,6 +45,7 @@ L'oeuvre est contemplative et immersive
 ## Mise en espace
 
 Vue par dessus et du coin gauche :
+
 ![croquis dessus](https://user-images.githubusercontent.com/112190488/235725844-601190f3-474e-4905-8f1d-861df3272c04.png)![croquis cote](https://user-images.githubusercontent.com/112190488/235725960-b62e4866-e2f6-4284-bbf7-e34440f48f08.png)
 
 
