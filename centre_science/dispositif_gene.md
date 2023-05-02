@@ -8,9 +8,9 @@
 
 Sortie le 12 avril 2023
 
-Photo prise par Karine
+Photo prise par Karine Lécuyier
 
-(photo devant batiment)
+![devant le lieu de l'exposition](https://user-images.githubusercontent.com/112190488/235737005-d9edfba0-a985-4c01-8c76-a6894991f98b.png)
 
 Dispositif est à l'intérieur et permanent 
 
