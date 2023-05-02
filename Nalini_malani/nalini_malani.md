@@ -53,7 +53,7 @@ Vue par dessus et du coin gauche :
 - 7 sacs de sables grandes tailles
 - equipement sonore
 
-Sac de sable :
+Sacs de sables :
 
 ![sac de sable](https://user-images.githubusercontent.com/112190488/235376039-277080fc-356e-4163-9efc-668d608e4d7f.png)
 
@@ -87,7 +87,11 @@ La position des visiteurs:
 
 J'ai appréssié les animations 
 
-Je changerai la musique calme pour une musique plus térrifiant puisque que les animations sont plus vites.
+(photo ou vidéo positive)
+
+Je changerai la musique calme pour une musique 
+
+(photo ou vidéo négative)
 
 ### Lien avec les oeuvres (autres visites)
 
@@ -98,3 +102,5 @@ Musée des beaux-arts Montréal : https://www.mbam.qc.ca/fr/expositions/nalini-m
 Site de l'artiste : https://www.nalinimalani.com/
 
 Site de Whitechapel sur <i>Can You Hear Me?</i> : https://www.whitechapelgallery.org/about/blog/nalini-malani-can-you-hear-me/ 
+
+Article sur Nalini Malani sur son oeuvre: https://ici.radio-canada.ca/nouvelle/1965584/nalini-malani-exposition-beaux-arts-montreal
