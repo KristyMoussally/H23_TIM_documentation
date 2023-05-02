@@ -79,6 +79,8 @@ Une composante pour sécuriser l'oeuvre contre un tremblement de terre :
 
 Dès que les visiteurs entrent dans la pièce obscure, ils se déplacent à l'aide d'une petite lumière qui projete sur le mur d'arrière ainsi que la lumière émise par les animations. Ils se positionnent en arrière ou sur les grandes sac de sables situées au centre de la pièce. Il y a neuf animations qui jouent en même temps avec une musique douce. 
 
+La position des visiteurs:
+
 ![position des visiteurs](https://user-images.githubusercontent.com/112190488/235730344-b4779d60-bd95-49b3-922e-8cb5d21234c9.png)
 
 ## Mon opinion
