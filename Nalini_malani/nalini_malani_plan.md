@@ -2,6 +2,9 @@
 
 ## Intro
 
+- Objectif (sujet posé)
+- aspect aborder (sujet divisé)
+
 ## Développement
 
 ## Conclusion
