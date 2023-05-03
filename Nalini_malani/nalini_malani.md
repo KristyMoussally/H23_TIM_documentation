@@ -87,11 +87,13 @@ La position des visiteurs:
 
 J'ai apprécié les animations, car ils sont tous différents. Puisqu'ils jouent vite et en boucle dans tous les projecteurs, c'est facile à se perdre dedans l'oeuvre. J'ai aimé la différences des animations, car on ne ressent pas qu'il y a un début et une fin. De plus, cette oeuvre m'a pris plus de temps pour se décoller puisque je suis facilement distrait quand plusieurs éléments sont projetés.
 
-[![video montre les animations]()](https://youtu.be/c0ck0aHW7Lo)
+[![video montre les animations](https://user-images.githubusercontent.com/112190488/236035877-d1041983-c372-40bc-a1f2-5ff3faf9f4da.png)
+)]([https://youtu.be/c0ck0aHW7Lo](https://youtu.be/c0ck0aHW7Lo))
 
 Je changerai la musique calme pour une musique plus alarmant. L'eouvre énornément inspirée <i>Can You Hear Me?</i> est basée sur une vrai histoire effrayant. De plus, Les animations en un thèmes sombres puis roulent vites au lieu de suivre le thème de la musique choisie. En gardant celle-ci, l'oeuvre ne sera moins stable puisqu'elle ne fait plus de sens. Avec la musique relaxante, quelques des visiteurs peuvent facilement dormir sur les sacs de sables.
 
-[![video explique la musique choisi]()]()
+[![video explique la musique choisi](https://user-images.githubusercontent.com/112190488/236035592-9a53e45c-06e8-4d44-a63d-e96111a65abe.png)](https://youtu.be/v-cZOW4zVFA)
+
 
 ## Références
 
