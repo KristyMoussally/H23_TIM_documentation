@@ -85,7 +85,7 @@ La position des visiteurs:
 
 ## Mon opinion
 
-J'ai apprécié les animations, car ils sont tous différents. Puisqu'ils jouent vite et en boucle dans tous les projecteurs, c'est facile à se perdre dedans l'oeuvre.
+J'ai apprécié les animations, car ils sont tous différents. Puisqu'ils jouent vite et en boucle dans tous les projecteurs, c'est facile à se perdre dedans l'oeuvre. J'ai aimé la différences des animations, car on ne ressent pas qu'il y a un début et une fin. De plus, cette oeuvre m'a pris plus de temps pour se décoller puisque je suis facilement distrait quand plusieurs éléments sont projetés.
 
 (photo ou vidéo positive)
 
