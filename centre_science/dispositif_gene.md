@@ -50,6 +50,8 @@ La function de cet dispositif est l'information écrite en dessous des plaquette
 
 ## Composantes, techniques et Éléments nécessaires à la mise du dispositif
 
+Ces éléments techniques sont offerts par le Centre des sciences :
+
 - adapteurs
 - fils
 - écran
