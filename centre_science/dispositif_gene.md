@@ -1,6 +1,6 @@
 # Humain
 
-(photo exposition)
+![exposition humain](https://user-images.githubusercontent.com/112190488/236267407-49a602f9-2e2f-47e3-b749-3f71a47a7d8e.png)
 
 ## Centre des sciences
 
@@ -20,7 +20,7 @@ Dispositif est à l'intérieur et permanent
 
 ## Description du dispositif
 
-description des artistes
+Le dispositif a été créé par une équipe de l'établissement. Celle-ci n'est pas claire puisque certains dispositifs n'ont pas d'informations sur les créateurs ou créatrices. 
 
 (photo cartel)
 
