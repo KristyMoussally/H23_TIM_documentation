@@ -46,7 +46,7 @@ description de la fonction du dispositif
 
 ##  Mise en espace
 
-(photo croquis)
+![croquis](https://user-images.githubusercontent.com/112190488/236277030-7164fd68-7c9b-456c-a9a0-aae9f1a6f7ea.png)
 
 ## Composantes, techniques et Éléments nécessaires à la mise du dispositif
 
@@ -63,6 +63,8 @@ Tous les composantes techniques cacher dans le contoir :
 ![composantes](https://user-images.githubusercontent.com/112190488/236269595-8c5d607f-2f80-4440-a097-6f2e96f153cb.png)
 
 ## Mes espériences
+
+Mes expériences
 
 ## Mon opinion
 
