@@ -78,6 +78,8 @@ Utilisation des couleurs pour activer la fonction du dispositif :
 
 J'aimerai changé la vitesse que la lumière s'active puisqu'elle est lente. En fait, je pensais que le dispositif ne marcher pas, car celle-ci ne réponds pas à la patience des visiteur.
 
+Lumière s'active longtement :
+
 [![lumiere long](https://user-images.githubusercontent.com/112190488/236279626-4290fc08-db49-4e93-909f-027edae7836a.png)](https://youtube.com/shorts/4po9QvuinbQ?feature=share)
 
 ## Références
