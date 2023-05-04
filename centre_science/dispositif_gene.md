@@ -64,7 +64,7 @@ Tous les composantes techniques cacher dans le contoir :
 
 ## Mes espériences
 
-Mes expériences
+J'avais un peu de misère de prendre les plaquettes directement du «slider»
 
 ## Mon opinion
 
