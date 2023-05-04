@@ -72,6 +72,10 @@ J'avais un peu de misère de prendre les plaquettes directement du « slider ».
 
 J'ai aimé le concept de faire le lien entre les couleurs du contoir et des plaquettes ensemble, car il rend l'activation des élélemts plus accèssible. De plus, le dispositif ne prend pas une grande espace pour polluer les autres dispositifs à côté, mais pas très petit pour qu'un seul visiteur peut intéragir avec celui-ci.
 
+Utilisation des couleurs pour activer la fonction du dispositif :
+
+![couleur matching](https://user-images.githubusercontent.com/112190488/236290156-4e469da4-202a-40ce-b1ac-0a31bc065936.png)
+
 J'aimerai changé la vitesse que la lumière s'active puisqu'elle est lente. En fait, je pensais que le dispositif ne marcher pas, car celle-ci ne réponds pas à la patience des visiteur.
 
 [![lumiere long](https://user-images.githubusercontent.com/112190488/236279626-4290fc08-db49-4e93-909f-027edae7836a.png)](https://youtube.com/shorts/4po9QvuinbQ?feature=share)
