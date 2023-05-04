@@ -1,4 +1,4 @@
-# Le corps humain
+# Humain
 
 (photo exposition)
 
