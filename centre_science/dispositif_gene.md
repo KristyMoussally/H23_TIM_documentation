@@ -30,7 +30,7 @@ Toutes les personnes qui ont travaillé sur cette exposition :
 
 ![cartel équipe](https://user-images.githubusercontent.com/112190488/236269237-b33b8274-ced9-489f-9d8c-38febca86f67.png)
 
-description du dispositif
+Cet dispositif consiste de quelques plaquettes 
 
 Vue arrère du dispositif :
 
@@ -70,7 +70,9 @@ Mes expériences
 
 J'ai apprécié
 
-Je n'aimerai pas retenir 
+J'aimerai changé la vitesse que la lumière s'active puisqu'elle est lente.
+
+[![lumiere long](https://user-images.githubusercontent.com/112190488/236279626-4290fc08-db49-4e93-909f-027edae7836a.png)](https://youtube.com/shorts/4po9QvuinbQ?feature=share)
 
 ## Références
 
