@@ -50,6 +50,8 @@ description de la fonction du dispositif
 
 ## Composantes, techniques et Éléments nécessaires à la mise du dispositif
 
+Tous les composantes techniques cacher dans le contoir :
+
 ![composantes](https://user-images.githubusercontent.com/112190488/236269595-8c5d607f-2f80-4440-a097-6f2e96f153cb.png)
 
 ## Mes espériences
