@@ -42,7 +42,7 @@ Le dispositif est intéractif :
 
 [![video dispositif interactif](https://user-images.githubusercontent.com/112190488/236271831-0e861b03-39f3-45a6-9c89-e3a6c93ff593.png)](https://youtube.com/shorts/QukOibVwqx0?feature=share)
 
-description de la fonction du dispositif
+La function de cet dispositif est l'information écrite en dessous des plaquettes lors de l'activation. Celle-ci mène à placer les éléments dans une place sprécis avec l'aide des couleur du contoir qui ressemble à un échelle. Ces informations sont écrites en forme de texte exposé à l'aide de l'écran du contoir. Plusque cet dispositif est situé dans l'exposition Humain, le sujet de celui-ci aborde les gènes. Donc, les visiteurs pourront apprendre plus d'information sur les gènes des insectes, animaux et plantes en les plaçants sur le « slider » du contoir à l'aide d'une échelle de couleurs.
 
 ##  Mise en espace
 
