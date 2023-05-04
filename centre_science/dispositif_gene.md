@@ -16,17 +16,17 @@ Dispositif est à l'intérieur et permanent
 
 ## Les Gènes
 
-(photo vue ensemble)
+![vue ensemble](https://user-images.githubusercontent.com/112190488/236269386-b7ccacc3-920a-40ac-9968-86f765465b0f.png)
 
 ## Description du dispositif
 
 Le dispositif a été créé par une équipe de l'établissement. Celle-ci n'est pas claire puisque certains dispositifs n'ont pas d'informations sur les créateurs ou créatrices. 
 
-(photo cartel)
+![cartel équipe](https://user-images.githubusercontent.com/112190488/236269237-b33b8274-ced9-489f-9d8c-38febca86f67.png)
 
 description du dispositif
 
-(photo autre vue)
+![vue arrière](https://user-images.githubusercontent.com/112190488/236269321-5ce05c74-41c6-4149-94c1-08fd0ee6bd79.png)
  
 ##  Type d'installation
 
@@ -40,9 +40,9 @@ description de la fonction du dispositif
 
 (photo croquis)
 
-## Composantes et techniques
+## Composantes, techniques et Éléments nécessaires à la mise du dispositif
 
-## Éléments nécessaires à la mise du dispositif
+![composantes](https://user-images.githubusercontent.com/112190488/236269595-8c5d607f-2f80-4440-a097-6f2e96f153cb.png)
 
 ## Mes espériences
 
