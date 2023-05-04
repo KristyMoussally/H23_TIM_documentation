@@ -1,5 +1,7 @@
 # Humain
 
+Exposition sur l'humain :
+
 ![exposition humain](https://user-images.githubusercontent.com/112190488/236267407-49a602f9-2e2f-47e3-b749-3f71a47a7d8e.png)
 
 ## Centre des sciences
@@ -16,15 +18,21 @@ Dispositif est à l'intérieur et permanent
 
 ## Les Gènes
 
+Vue de l'ensemble du dispositif :
+
 ![vue ensemble](https://user-images.githubusercontent.com/112190488/236269386-b7ccacc3-920a-40ac-9968-86f765465b0f.png)
 
 ## Description du dispositif
 
 Le dispositif a été créé par une équipe de l'établissement. Celle-ci n'est pas claire puisque certains dispositifs n'ont pas d'informations sur les créateurs ou créatrices. 
 
+Toutes les personnes qui ont travaillé sur cette exposition :
+
 ![cartel équipe](https://user-images.githubusercontent.com/112190488/236269237-b33b8274-ced9-489f-9d8c-38febca86f67.png)
 
 description du dispositif
+
+Vue arrère du dispositif :
 
 ![vue arrière](https://user-images.githubusercontent.com/112190488/236269321-5ce05c74-41c6-4149-94c1-08fd0ee6bd79.png)
  
@@ -47,6 +55,10 @@ description de la fonction du dispositif
 ## Mes espériences
 
 ## Mon opinion
+
+J'ai apprécié
+
+Je n'aimerai pas retenir 
 
 ## Références
 
