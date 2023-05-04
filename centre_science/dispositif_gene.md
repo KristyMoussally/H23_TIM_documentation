@@ -30,7 +30,7 @@ Toutes les personnes qui ont travaillé sur cette exposition :
 
 ![cartel équipe](https://user-images.githubusercontent.com/112190488/236269237-b33b8274-ced9-489f-9d8c-38febca86f67.png)
 
-Cet dispositif consiste de quelques plaquettes 
+Cet dispositif consiste de quelques plaquettes intégrées avec des détecteurs à l'intérieur de chacun. Lors du placement des plaquettes se retrouvent dans leurs bonnes positions, la l'umière de l'écran s'active par conséquent de montrer des textes écrites pour chaque paquettes. 
 
 Vue arrère du dispositif :
 
