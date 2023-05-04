@@ -49,3 +49,5 @@ description de la fonction du dispositif
 ## Mon opinion
 
 ## Références
+
+Site Centre des sciences de Montréal sur l'exposition humain: https://www.centredessciencesdemontreal.com/exposition-permanente/humain
