@@ -64,13 +64,13 @@ Tous les composantes techniques cacher dans le contoir :
 
 ## Mes espériences
 
-J'avais un peu de misère de prendre les plaquettes directement du «slider»
+J'avais un peu de misère de prendre les plaquettes directement du « slider ». Je pensais que le dispositif avait un problème lors de l'activation puisque les détecteurs s'activent dans une endoit précis. Alors les lumières ne s'allumaient pas, seul si celles-ci les couleurs des plaquettes se lient avec les couleurs du « slider ». 
 
 ## Mon opinion
 
 J'ai apprécié
 
-J'aimerai changé la vitesse que la lumière s'active puisqu'elle est lente.
+J'aimerai changé la vitesse que la lumière s'active puisqu'elle est lente. En fait, je pensais que le dispositif ne marcher pas, car celle-ci ne réponds pas à la patience des visiteur.
 
 [![lumiere long](https://user-images.githubusercontent.com/112190488/236279626-4290fc08-db49-4e93-909f-027edae7836a.png)](https://youtube.com/shorts/4po9QvuinbQ?feature=share)
 
