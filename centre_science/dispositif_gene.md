@@ -70,7 +70,7 @@ J'avais un peu de misère de prendre les plaquettes directement du « slider ».
 
 ## Mon opinion
 
-J'ai apprécié
+J'ai aimé le concept de faire le lien entre les couleurs du contoir et des plaquettes ensemble, car il rend l'activation des élélemts plus accèssible. De plus, le dispositif ne prend pas une grande espace pour polluer les autres dispositifs à côté, mais pas très petit pour qu'un seul visiteur peut intéragir avec celui-ci.
 
 J'aimerai changé la vitesse que la lumière s'active puisqu'elle est lente. En fait, je pensais que le dispositif ne marcher pas, car celle-ci ne réponds pas à la patience des visiteur.
 
