@@ -2,8 +2,8 @@
 
 ## Intro
 
-Nalini Malani est une artiste indienne qui s'inspire de ses propre expériences en tant que réfugié. Elle a fait plusieurs collaboration ainsi de participé à d'autres expositions mondiale. Une de ses oeuvres récemant installé est Par-delà les frontières inspiré par une ancienne oeuvre Can You Hear Me?.
-- aspect aborder (sujet divisé)
+Nalini Malani est une artiste indienne qui s'inspire de ses propre expériences en tant que réfugié. Elle a fait plusieurs collaboration ainsi de participé à d'autres expositions mondiale. Une de ses oeuvres récemant installé est Par-delà les frontières inspiré par une ancienne oeuvre Can You Hear Me?. 
+Je vais vous présenter les composants de l'oeuvre, des informations plus détaillés sur le placement puis mes expériences. 
 
 ## Développement
 
