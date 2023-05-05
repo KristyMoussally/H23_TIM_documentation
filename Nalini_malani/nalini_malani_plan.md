@@ -2,7 +2,7 @@
 
 ## Intro
 
-- Objectif (sujet posé)
+Nalini Malani est une artiste indienne qui s'inspire de ses propre expériences en tant que réfugié. Elle a fait plusieurs collaboration ainsi de participé à d'autres expositions mondiale. Une de ses oeuvres récemant installé est Par-delà les frontières inspiré par une ancienne oeuvre Can You Hear Me?.
 - aspect aborder (sujet divisé)
 
 ## Développement
@@ -21,5 +21,6 @@ J'ai apprcié que les animations soit tous uniques et alternent leur position (u
 
 ## Conclusion
 
+On peut seulement observer l'oeuvre en se plaçant sur les sacs de sables qui sont au milieu de la salle. On apprend comment les oeuvres et les dispositifs sont installés avec différentes éléments nécéssaire pour le fonction des projects.
 
 
