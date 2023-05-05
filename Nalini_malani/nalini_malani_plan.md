@@ -13,7 +13,7 @@ Par-delà les frontières est une oeuvre contemplative et immersive. Elle se dé
 
 PLus que c'était une pièce est dans le noir, j'avais de la difficulté de me déplacé même s'il y avait une petite lumière devant l'entrée. Avant que je commence a prendre des support visuels je me suis installée sur une des sacs de sable.
 
-J'ai apprcié que les animations soit tous uniques et alternent leur position (un autre projecteur). Alors, c'était facile de se faire distraire, car ceux-ci roulent tous en même temps. Je resent que cette oeuvre est surchargée, donc à mon avis, elle est considérée finit.
+J'ai apprcié que les animations soit tous uniques et alternent leur position (un autre projecteur). Alors, c'était facile de se faire distraire, car ceux-ci roulent tous en même temps. Je resent que cette oeuvre est surchargée, donc à mon avis, elle est considérée finit. Tous se que j'aimerai changer est la musique, car celle-ci est très calme et relaxante, j'allait m'endormir. De plus, puisque Par-delà les frontières est énormément inspiré par Can You Hear Me?, une autre oeuvre composé des mêmes éléments, elle devrait être plus alarmant (la musique). Nalini Malani est connue pour ses oeuvres inspirer des situations sombres de son pays. Par exemple, Can You Hear Me? est une oeuvre en base d'une histoire d'une petite fille de 8 ans tué par un groupe hommes.
 
 ## Conclusion
 
