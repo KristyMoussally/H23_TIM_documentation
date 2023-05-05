@@ -15,9 +15,9 @@ PLus que c'était une pièce est dans le noir, j'avais de la difficulté de me d
 
 J'ai apprcié que les animations soit tous uniques et alternent leur position (un autre projecteur). Alors, c'était facile de se faire distraire, car ceux-ci roulent tous en même temps. Je resent que cette oeuvre est surchargée, donc à mon avis, elle est considérée finit. Tous se que j'aimerai changer est la musique, car celle-ci est très calme et relaxante, j'allait m'endormir. De plus, puisque Par-delà les frontières est énormément inspiré par Can You Hear Me?, une autre oeuvre composé des mêmes éléments, elle devrait être plus alarmant (la musique). Nalini Malani est connue pour ses oeuvres inspirer des situations sombres de son pays. Par exemple, Can You Hear Me? est une oeuvre en base d'une histoire d'une petite fille de 8 ans tué par un groupe hommes.
 
-#### Lien entre cette oeuvre puis un autre oeuvre vue en groupe (ex.: Bian, Mycélium)
+#### Lien entre cette oeuvre puis un autre oeuvre vue en groupe (ex.: Mycélium)??
 
-
+Comparant entre cette oeuvre et Echomarine (réalisé par des étudiants dans leurs dernière session), on retrouve les même sortes de composants comme les projecteurs, le support au plafond puis l'équipement sonore. La seule différence est qu'Echomarine contient des composants avec une fonction d'intéraction que Par-delà les frontières est uniquement de la l'observation, donc moins d'éléments pour l'installation.
 
 ## Conclusion
 
