@@ -11,6 +11,8 @@ Par-delà les frontières est une oeuvre créée par Nalini Malani, une artiste 
 
 Par-delà les frontières est une oeuvre contemplative et immersive. Elle se déroule dans une grande pièce noir où la seule source de lumière est les animations projeté sur 3 murs. Celle-ci est composée de 9 projecteurs en tout placé sur un support au plafond. Des animations différentes jouent en boucle accompagné par une musique. La pièce a une longueur d'environ 57 pieds sur chaque côté et une hauteur d'environ 4,25 mètres (murs). Elle contient aussi des sacs de sables pour que les visiteurs puissent admirer l'oeuvre au lieu d'être debout. Pour prévenir des tremblements de terre avant qu'ils cause du dommage à l'oeuvre, ils ont ajouté un composant qui mesure le niveau des tremblements de terre à côté de la porte d'urgence situé à droite de l'entrée principale.
 
+
+
 ## Conclusion
 
 
